@@ -36,4 +36,20 @@ public class AuditService {
             System.err.println("Eroare la scrierea în fișierul de audit: " + e.getMessage());
         }
     }
+    
+    /**
+     * Loghează o acțiune în fișierul CSV de audit, cu ID/cod specific.
+     * @param numeActiune Numele acțiunii (ex: "Adăugare student").
+     * @param id ID-ul sau codul entității (ex: "S1", "MAT1", etc.).
+     */
+    public void logActiune(String numeActiune, String id) {
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter(CSV_FILE, true))) {
+            String timestamp = LocalDateTime.now().format(TIMESTAMP_FORMATTER);
+            String linie = String.format("%s,%s,%s", numeActiune, id, timestamp);
+            writer.write(linie);
+            writer.newLine();
+        } catch (IOException e) {
+            System.err.println("Eroare la scrierea în fișierul de audit: " + e.getMessage());
+        }
+    }
 }

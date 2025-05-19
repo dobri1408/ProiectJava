@@ -1,10 +1,1183 @@
-Adăugare student: 23,2025-05-04 15:49:36
-Adăugare student: 1,2025-05-06 19:15:45
-Adăugare profesor: 1,2025-05-06 19:33:38
-Adăugare profesor: 1,2025-05-06 19:41:59
-Adăugare student: 1,2025-05-06 19:42:13
-Adăugare profesor: 1,2025-05-06 19:44:00
-Adăugare profesor: 2,2025-05-06 19:46:25
-Adăugare profesor: 1,2025-05-06 19:51:08
-Adăugare materie: 1,2025-05-06 19:51:20
-Adăugare curs pentru materia 1,2025-05-06 19:54:45
+Initializare baza de date,2025-05-19 15:20:28
+Listare toti studentii din baza de date,2025-05-19 15:20:28
+Listare toti profesorii din baza de date,2025-05-19 15:20:28
+Listare toate materiile din baza de date,2025-05-19 15:20:28
+Listare toate salile din baza de date,2025-05-19 15:20:28
+Listare toate cursurile din baza de date,2025-05-19 15:20:28
+Salvare student in baza de date,2025-05-19 15:21:02
+Adaugare student,2025-05-19 15:21:02
+Cautare student dupa ID in baza de date,2025-05-19 15:21:15
+Cautare student dupa ID in baza de date,2025-05-19 15:21:15
+Cautare cursuri dupa ID student in baza de date,2025-05-19 15:21:15
+Obtinere cursuri student,2025-05-19 15:21:15
+Initializare baza de date,2025-05-19 15:21:32
+Listare toti studentii din baza de date,2025-05-19 15:21:32
+Listare toti profesorii din baza de date,2025-05-19 15:21:32
+Listare toate materiile din baza de date,2025-05-19 15:21:32
+Listare toate salile din baza de date,2025-05-19 15:21:32
+Listare toate cursurile din baza de date,2025-05-19 15:21:32
+Cautare student dupa ID in baza de date,2025-05-19 15:21:38
+Cautare student dupa ID in baza de date,2025-05-19 15:21:38
+Cautare cursuri dupa ID student in baza de date,2025-05-19 15:21:38
+Obtinere cursuri student,2025-05-19 15:21:38
+Initializare baza de date,2025-05-19 15:21:56
+Listare toti studentii din baza de date,2025-05-19 15:21:56
+Listare toti profesorii din baza de date,2025-05-19 15:21:56
+Listare toate materiile din baza de date,2025-05-19 15:21:56
+Listare toate salile din baza de date,2025-05-19 15:21:56
+Listare toate cursurile din baza de date,2025-05-19 15:21:56
+Salvare student in baza de date,2025-05-19 15:22:08
+Adaugare student,2025-05-19 15:22:08
+Cautare student dupa ID in baza de date,2025-05-19 15:22:12
+Cautare student dupa ID in baza de date,2025-05-19 15:22:12
+Cautare cursuri dupa ID student in baza de date,2025-05-19 15:22:12
+Obtinere cursuri student,2025-05-19 15:22:12
+Initializare baza de date,2025-05-19 15:22:30
+Listare toti studentii din baza de date,2025-05-19 15:22:30
+Listare toti profesorii din baza de date,2025-05-19 15:22:30
+Listare toate materiile din baza de date,2025-05-19 15:22:30
+Listare toate salile din baza de date,2025-05-19 15:22:30
+Listare toate cursurile din baza de date,2025-05-19 15:22:30
+Cautare student dupa ID in baza de date,2025-05-19 15:22:35
+Cautare student dupa ID in baza de date,2025-05-19 15:22:35
+Cautare cursuri dupa ID student in baza de date,2025-05-19 15:22:35
+Obtinere cursuri student,2025-05-19 15:22:35
+Cautare student dupa ID in baza de date,2025-05-19 15:22:43
+Cautare student dupa ID in baza de date,2025-05-19 15:22:43
+Cautare cursuri dupa ID student in baza de date,2025-05-19 15:22:43
+Obtinere cursuri student,2025-05-19 15:22:43
+Cautare student dupa ID in baza de date,2025-05-19 15:22:50
+Cautare student dupa ID in baza de date,2025-05-19 15:22:50
+Cautare cursuri dupa ID student in baza de date,2025-05-19 15:22:50
+Obtinere cursuri student,2025-05-19 15:22:50
+Initializare baza de date,2025-05-19 15:29:43
+Listare toti studentii din baza de date,2025-05-19 15:29:43
+Listare toti profesorii din baza de date,2025-05-19 15:29:43
+Listare toate materiile din baza de date,2025-05-19 15:29:43
+Listare toate salile din baza de date,2025-05-19 15:29:43
+Listare toate cursurile din baza de date,2025-05-19 15:29:43
+Initializare baza de date,2025-05-19 15:38:40
+Listare toti studentii din baza de date,2025-05-19 15:38:40
+Listare toti profesorii din baza de date,2025-05-19 15:38:40
+Listare toate materiile din baza de date,2025-05-19 15:38:40
+Listare toate salile din baza de date,2025-05-19 15:38:40
+Listare toate cursurile din baza de date,2025-05-19 15:38:40
+Initializare baza de date,2025-05-19 15:42:42
+Listare toti studentii din baza de date,2025-05-19 15:42:42
+Listare toti profesorii din baza de date,2025-05-19 15:42:42
+Listare toate materiile din baza de date,2025-05-19 15:42:42
+Listare toate salile din baza de date,2025-05-19 15:42:42
+Listare toate cursurile din baza de date,2025-05-19 15:42:42
+Salvare sala in baza de date,2025-05-19 15:43:23
+Adaugare sala,2025-05-19 15:43:23
+Salvare sala in baza de date,2025-05-19 15:43:37
+Adaugare sala,2025-05-19 15:43:37
+Salvare sala in baza de date,2025-05-19 15:43:46
+Adaugare sala,2025-05-19 15:43:46
+Salvare profesor in baza de date,2025-05-19 15:46:37
+Adaugare profesor,2025-05-19 15:46:37
+Salvare profesor in baza de date,2025-05-19 15:46:44
+Adaugare profesor,2025-05-19 15:46:44
+Salvare profesor in baza de date,2025-05-19 15:46:53
+Adaugare profesor,2025-05-19 15:46:53
+Salvare materie in baza de date,2025-05-19 15:47:00
+Adaugare materie,2025-05-19 15:47:00
+Initializare baza de date,2025-05-19 15:52:29
+Listare toti studentii din baza de date,2025-05-19 15:52:29
+Listare toti profesorii din baza de date,2025-05-19 15:52:29
+Listare toate materiile din baza de date,2025-05-19 15:52:29
+Listare toate salile din baza de date,2025-05-19 15:52:29
+Listare toate cursurile din baza de date,2025-05-19 15:52:29
+Salvare sala in baza de date,2025-05-19 15:53:07
+Adaugare sala,2025-05-19 15:53:07
+Initializare baza de date,2025-05-19 15:53:20
+Listare toti studentii din baza de date,2025-05-19 15:53:20
+Listare toti profesorii din baza de date,2025-05-19 15:53:20
+Listare toate materiile din baza de date,2025-05-19 15:53:20
+Listare toate salile din baza de date,2025-05-19 15:53:20
+Listare toate cursurile din baza de date,2025-05-19 15:53:20
+Salvare student in baza de date,2025-05-19 15:53:36
+Adaugare student,2025-05-19 15:53:36
+Initializare baza de date,2025-05-19 15:53:51
+Listare toti studentii din baza de date,2025-05-19 15:53:51
+Listare toti profesorii din baza de date,2025-05-19 15:53:51
+Listare toate materiile din baza de date,2025-05-19 15:53:51
+Listare toate salile din baza de date,2025-05-19 15:53:51
+Listare toate cursurile din baza de date,2025-05-19 15:53:51
+Initializare baza de date,2025-05-19 15:58:38
+Listare toti studentii din baza de date,2025-05-19 15:58:38
+Listare toti profesorii din baza de date,2025-05-19 15:58:38
+Listare toate materiile din baza de date,2025-05-19 15:58:38
+Listare toate salile din baza de date,2025-05-19 15:58:38
+Listare toate cursurile din baza de date,2025-05-19 15:58:38
+Salvare profesor in baza de date,2025-05-19 15:58:55
+Adaugare profesor,2025-05-19 15:58:55
+Initializare baza de date,2025-05-19 15:59:07
+Listare toti studentii din baza de date,2025-05-19 15:59:07
+Listare toti profesorii din baza de date,2025-05-19 15:59:07
+Listare toate materiile din baza de date,2025-05-19 15:59:07
+Listare toate salile din baza de date,2025-05-19 15:59:08
+Listare toate cursurile din baza de date,2025-05-19 15:59:08
+Salvare profesor in baza de date,2025-05-19 16:07:08
+Adaugare profesor,2025-05-19 16:07:08
+Salvare profesor in baza de date,2025-05-19 16:07:16
+Adaugare profesor,2025-05-19 16:07:16
+Initializare baza de date,2025-05-19 16:07:28
+Listare toti studentii din baza de date,2025-05-19 16:07:28
+Listare toti profesorii din baza de date,2025-05-19 16:07:28
+Listare toate materiile din baza de date,2025-05-19 16:07:28
+Listare toate salile din baza de date,2025-05-19 16:07:28
+Listare toate cursurile din baza de date,2025-05-19 16:07:28
+Salvare materie in baza de date,2025-05-19 16:07:43
+Adaugare materie,2025-05-19 16:07:43
+Initializare baza de date,2025-05-19 16:07:47
+Listare toti studentii din baza de date,2025-05-19 16:07:47
+Listare toti profesorii din baza de date,2025-05-19 16:07:47
+Listare toate materiile din baza de date,2025-05-19 16:07:47
+Listare toate salile din baza de date,2025-05-19 16:07:47
+Listare toate cursurile din baza de date,2025-05-19 16:07:47
+Initializare baza de date,2025-05-19 16:13:22
+Listare toti studentii din baza de date,2025-05-19 16:13:22
+Listare toti profesorii din baza de date,2025-05-19 16:13:22
+Listare toate materiile din baza de date,2025-05-19 16:13:22
+Listare toate salile din baza de date,2025-05-19 16:13:22
+Listare toate cursurile din baza de date,2025-05-19 16:13:22
+Initializare baza de date,2025-05-19 16:13:34
+Listare toti studentii din baza de date,2025-05-19 16:13:34
+Listare toti profesorii din baza de date,2025-05-19 16:13:34
+Listare toate materiile din baza de date,2025-05-19 16:13:34
+Listare toate salile din baza de date,2025-05-19 16:13:34
+Listare toate cursurile din baza de date,2025-05-19 16:13:34
+Initializare baza de date,2025-05-19 16:15:13
+Listare toti studentii din baza de date,2025-05-19 16:15:13
+Listare toti profesorii din baza de date,2025-05-19 16:15:13
+Listare toate materiile din baza de date,2025-05-19 16:15:13
+Listare toate salile din baza de date,2025-05-19 16:15:13
+Listare toate cursurile din baza de date,2025-05-19 16:15:14
+Salvare profesor in baza de date,2025-05-19 16:15:25
+Adaugare profesor,2025-05-19 16:15:25
+Salvare materie in baza de date,2025-05-19 16:15:38
+Adaugare materie,2025-05-19 16:15:38
+Initializare baza de date,2025-05-19 16:17:55
+Listare toti studentii din baza de date,2025-05-19 16:17:55
+Listare toti profesorii din baza de date,2025-05-19 16:17:55
+Listare toate materiile din baza de date,2025-05-19 16:17:55
+Listare toate salile din baza de date,2025-05-19 16:17:55
+Listare toate cursurile din baza de date,2025-05-19 16:17:55
+Salvare sala in baza de date,2025-05-19 16:18:01
+Adaugare sala,2025-05-19 16:18:01
+Salvare sala in baza de date,2025-05-19 16:18:01
+Adaugare sala,2025-05-19 16:18:01
+Salvare sala in baza de date,2025-05-19 16:18:01
+Adaugare sala,2025-05-19 16:18:01
+Salvare sala in baza de date,2025-05-19 16:18:01
+Adaugare sala,2025-05-19 16:18:01
+Salvare sala in baza de date,2025-05-19 16:18:01
+Adaugare sala,2025-05-19 16:18:01
+Salvare materie in baza de date,2025-05-19 16:18:55
+Adaugare materie,2025-05-19 16:18:55
+Salvare curs in baza de date,2025-05-19 16:20:07
+Adaugare curs,2025-05-19 16:20:07
+Salvare curs in baza de date,2025-05-19 16:20:49
+Adaugare curs,2025-05-19 16:20:49
+Initializare baza de date,2025-05-19 16:24:39
+Listare toti studentii din baza de date,2025-05-19 16:24:39
+Listare toti profesorii din baza de date,2025-05-19 16:24:39
+Listare toate materiile din baza de date,2025-05-19 16:24:39
+Listare toate salile din baza de date,2025-05-19 16:24:39
+Cautare materie dupa cod in baza de date,2025-05-19 16:24:39
+Cautare profesor dupa ID in baza de date,2025-05-19 16:24:39
+Cautare sala dupa ID in baza de date,2025-05-19 16:24:39
+Cautare materie dupa cod in baza de date,2025-05-19 16:24:39
+Cautare profesor dupa ID in baza de date,2025-05-19 16:24:39
+Cautare sala dupa ID in baza de date,2025-05-19 16:24:39
+Listare toate cursurile din baza de date,2025-05-19 16:24:39
+Afisare detalii profesor,2025-05-19 16:24:56
+Salvare curs in baza de date,2025-05-19 16:26:22
+Adaugare curs,2025-05-19 16:26:22
+Initializare baza de date,2025-05-19 16:29:22
+Listare toti studentii din baza de date,2025-05-19 16:29:22
+Listare toti profesorii din baza de date,2025-05-19 16:29:22
+Listare toate materiile din baza de date,2025-05-19 16:29:22
+Listare toate salile din baza de date,2025-05-19 16:29:22
+Cautare materie dupa cod in baza de date,2025-05-19 16:29:22
+Cautare profesor dupa ID in baza de date,2025-05-19 16:29:22
+Cautare sala dupa ID in baza de date,2025-05-19 16:29:22
+Cautare materie dupa cod in baza de date,2025-05-19 16:29:22
+Cautare profesor dupa ID in baza de date,2025-05-19 16:29:22
+Cautare sala dupa ID in baza de date,2025-05-19 16:29:22
+Cautare materie dupa cod in baza de date,2025-05-19 16:29:22
+Cautare profesor dupa ID in baza de date,2025-05-19 16:29:22
+Cautare sala dupa ID in baza de date,2025-05-19 16:29:22
+Listare toate cursurile din baza de date,2025-05-19 16:29:22
+Salvare curs in baza de date,2025-05-19 16:30:19
+Adaugare curs,2025-05-19 16:30:19
+Salvare curs in baza de date,2025-05-19 16:31:05
+Adaugare curs,2025-05-19 16:31:05
+Initializare baza de date,2025-05-19 16:31:24
+Listare toti studentii din baza de date,2025-05-19 16:31:24
+Listare toti profesorii din baza de date,2025-05-19 16:31:24
+Listare toate materiile din baza de date,2025-05-19 16:31:24
+Listare toate salile din baza de date,2025-05-19 16:31:24
+Cautare materie dupa cod in baza de date,2025-05-19 16:31:24
+Cautare profesor dupa ID in baza de date,2025-05-19 16:31:24
+Cautare sala dupa ID in baza de date,2025-05-19 16:31:24
+Cautare materie dupa cod in baza de date,2025-05-19 16:31:24
+Cautare profesor dupa ID in baza de date,2025-05-19 16:31:24
+Cautare sala dupa ID in baza de date,2025-05-19 16:31:24
+Cautare materie dupa cod in baza de date,2025-05-19 16:31:24
+Cautare profesor dupa ID in baza de date,2025-05-19 16:31:24
+Cautare sala dupa ID in baza de date,2025-05-19 16:31:24
+Cautare materie dupa cod in baza de date,2025-05-19 16:31:24
+Cautare profesor dupa ID in baza de date,2025-05-19 16:31:24
+Cautare sala dupa ID in baza de date,2025-05-19 16:31:24
+Cautare materie dupa cod in baza de date,2025-05-19 16:31:24
+Cautare profesor dupa ID in baza de date,2025-05-19 16:31:24
+Cautare sala dupa ID in baza de date,2025-05-19 16:31:24
+Listare toate cursurile din baza de date,2025-05-19 16:31:24
+Afisare detalii profesor,2025-05-19 16:31:49
+Initializare baza de date,2025-05-19 16:41:14
+Listare toti studentii din baza de date,2025-05-19 16:41:14
+Listare toti profesorii din baza de date,2025-05-19 16:41:14
+Listare toate materiile din baza de date,2025-05-19 16:41:14
+Listare toate salile din baza de date,2025-05-19 16:41:14
+Cautare materie dupa cod in baza de date,2025-05-19 16:41:14
+Cautare profesor dupa ID in baza de date,2025-05-19 16:41:14
+Cautare sala dupa ID in baza de date,2025-05-19 16:41:14
+Cautare materie dupa cod in baza de date,2025-05-19 16:41:14
+Cautare profesor dupa ID in baza de date,2025-05-19 16:41:14
+Cautare sala dupa ID in baza de date,2025-05-19 16:41:14
+Cautare materie dupa cod in baza de date,2025-05-19 16:41:14
+Cautare profesor dupa ID in baza de date,2025-05-19 16:41:14
+Cautare sala dupa ID in baza de date,2025-05-19 16:41:14
+Cautare materie dupa cod in baza de date,2025-05-19 16:41:14
+Cautare profesor dupa ID in baza de date,2025-05-19 16:41:14
+Cautare sala dupa ID in baza de date,2025-05-19 16:41:14
+Cautare materie dupa cod in baza de date,2025-05-19 16:41:14
+Cautare profesor dupa ID in baza de date,2025-05-19 16:41:14
+Cautare sala dupa ID in baza de date,2025-05-19 16:41:14
+Listare toate cursurile din baza de date,2025-05-19 16:41:14
+Afisare orar sala,2025-05-19 16:41:24
+Salvare curs in baza de date,2025-05-19 16:41:59
+Adaugare curs,2025-05-19 16:41:59
+Afisare orar sala,2025-05-19 16:42:06
+Cautare student dupa ID in baza de date,2025-05-19 16:42:57
+Cautare student dupa ID in baza de date,2025-05-19 16:42:57
+Cautare cursuri dupa ID student in baza de date,2025-05-19 16:42:57
+Obtinere cursuri student,2025-05-19 16:42:57
+Cautare student dupa ID in baza de date,2025-05-19 16:42:57
+Salvare inscriere in baza de date,2025-05-19 16:42:57
+Inscriere student la materie,2025-05-19 16:42:57
+Cautare student dupa ID in baza de date,2025-05-19 16:43:09
+Cautare student dupa ID in baza de date,2025-05-19 16:43:09
+Cautare cursuri dupa ID student in baza de date,2025-05-19 16:43:09
+Obtinere cursuri student,2025-05-19 16:43:09
+Cautare student dupa ID in baza de date,2025-05-19 16:43:09
+Salvare inscriere in baza de date,2025-05-19 16:43:09
+Inscriere student la materie,2025-05-19 16:43:09
+Cautare student dupa ID in baza de date,2025-05-19 16:43:27
+Cautare student dupa ID in baza de date,2025-05-19 16:43:27
+Cautare cursuri dupa ID student in baza de date,2025-05-19 16:43:27
+Obtinere cursuri student,2025-05-19 16:43:27
+Cautare student dupa ID in baza de date,2025-05-19 16:43:27
+Salvare inscriere in baza de date,2025-05-19 16:43:27
+Inscriere student la materie,2025-05-19 16:43:27
+Salvare student in baza de date,2025-05-19 16:43:52
+Adaugare student,2025-05-19 16:43:52
+Cautare student dupa ID in baza de date,2025-05-19 16:44:16
+Cautare student dupa ID in baza de date,2025-05-19 16:44:16
+Cautare cursuri dupa ID student in baza de date,2025-05-19 16:44:16
+Obtinere cursuri student,2025-05-19 16:44:16
+Cautare student dupa ID in baza de date,2025-05-19 16:44:16
+Calcul medie student,2025-05-19 16:44:16
+Cautare student dupa ID in baza de date,2025-05-19 16:44:29
+Cautare student dupa ID in baza de date,2025-05-19 16:44:29
+Cautare cursuri dupa ID student in baza de date,2025-05-19 16:44:29
+Obtinere cursuri student,2025-05-19 16:44:29
+Cautare student dupa ID in baza de date,2025-05-19 16:44:29
+Salvare inscriere in baza de date,2025-05-19 16:44:29
+Inscriere student la materie,2025-05-19 16:44:29
+Cautare student dupa ID in baza de date,2025-05-19 16:44:38
+Cautare student dupa ID in baza de date,2025-05-19 16:44:38
+Cautare cursuri dupa ID student in baza de date,2025-05-19 16:44:38
+Obtinere cursuri student,2025-05-19 16:44:38
+Cautare student dupa ID in baza de date,2025-05-19 16:44:38
+Calcul medie student,2025-05-19 16:44:38
+Initializare baza de date,2025-05-19 16:45:55
+Listare toti studentii din baza de date,2025-05-19 16:45:55
+Listare toti profesorii din baza de date,2025-05-19 16:45:55
+Listare toate materiile din baza de date,2025-05-19 16:45:55
+Listare toate salile din baza de date,2025-05-19 16:45:55
+Cautare materie dupa cod in baza de date,2025-05-19 16:45:55
+Cautare profesor dupa ID in baza de date,2025-05-19 16:45:55
+Cautare sala dupa ID in baza de date,2025-05-19 16:45:55
+Cautare materie dupa cod in baza de date,2025-05-19 16:45:55
+Cautare profesor dupa ID in baza de date,2025-05-19 16:45:55
+Cautare sala dupa ID in baza de date,2025-05-19 16:45:55
+Cautare materie dupa cod in baza de date,2025-05-19 16:45:55
+Cautare profesor dupa ID in baza de date,2025-05-19 16:45:55
+Cautare sala dupa ID in baza de date,2025-05-19 16:45:56
+Cautare materie dupa cod in baza de date,2025-05-19 16:45:56
+Cautare profesor dupa ID in baza de date,2025-05-19 16:45:56
+Cautare sala dupa ID in baza de date,2025-05-19 16:45:56
+Cautare materie dupa cod in baza de date,2025-05-19 16:45:56
+Cautare profesor dupa ID in baza de date,2025-05-19 16:45:56
+Cautare sala dupa ID in baza de date,2025-05-19 16:45:56
+Cautare materie dupa cod in baza de date,2025-05-19 16:45:56
+Cautare profesor dupa ID in baza de date,2025-05-19 16:45:56
+Cautare sala dupa ID in baza de date,2025-05-19 16:45:56
+Listare toate cursurile din baza de date,2025-05-19 16:45:56
+Cautare student dupa ID in baza de date,2025-05-19 16:46:02
+Cautare student dupa ID in baza de date,2025-05-19 16:46:02
+Cautare cursuri dupa ID student in baza de date,2025-05-19 16:46:02
+Obtinere cursuri student,2025-05-19 16:46:02
+Cautare student dupa ID in baza de date,2025-05-19 16:46:02
+Calcul medie student,2025-05-19 16:46:02
+Initializare baza de date,2025-05-19 16:51:26
+Listare toti studentii din baza de date,2025-05-19 16:51:26
+Listare toti profesorii din baza de date,2025-05-19 16:51:26
+Listare toate materiile din baza de date,2025-05-19 16:51:26
+Listare toate salile din baza de date,2025-05-19 16:51:26
+Cautare materie dupa cod in baza de date,2025-05-19 16:51:26
+Cautare profesor dupa ID in baza de date,2025-05-19 16:51:26
+Cautare sala dupa ID in baza de date,2025-05-19 16:51:26
+Cautare materie dupa cod in baza de date,2025-05-19 16:51:26
+Cautare profesor dupa ID in baza de date,2025-05-19 16:51:26
+Cautare sala dupa ID in baza de date,2025-05-19 16:51:26
+Cautare materie dupa cod in baza de date,2025-05-19 16:51:26
+Cautare profesor dupa ID in baza de date,2025-05-19 16:51:26
+Cautare sala dupa ID in baza de date,2025-05-19 16:51:26
+Cautare materie dupa cod in baza de date,2025-05-19 16:51:26
+Cautare profesor dupa ID in baza de date,2025-05-19 16:51:26
+Cautare sala dupa ID in baza de date,2025-05-19 16:51:26
+Cautare materie dupa cod in baza de date,2025-05-19 16:51:26
+Cautare profesor dupa ID in baza de date,2025-05-19 16:51:26
+Cautare sala dupa ID in baza de date,2025-05-19 16:51:26
+Cautare materie dupa cod in baza de date,2025-05-19 16:51:26
+Cautare profesor dupa ID in baza de date,2025-05-19 16:51:26
+Cautare sala dupa ID in baza de date,2025-05-19 16:51:26
+Listare toate cursurile din baza de date,2025-05-19 16:51:27
+Cautare student dupa ID in baza de date,2025-05-19 16:51:55
+Cautare cursuri dupa ID student in baza de date,2025-05-19 16:51:55
+Verificare conflict orar student,2025-05-19 16:51:55
+Cautare student dupa ID in baza de date,2025-05-19 16:51:55
+Salvare inscriere in baza de date,2025-05-19 16:51:55
+Inscriere student la materie,2025-05-19 16:51:55
+Cautare student dupa ID in baza de date,2025-05-19 16:52:06
+Cautare cursuri dupa ID student in baza de date,2025-05-19 16:52:06
+Obtinere cursuri student,2025-05-19 16:52:06
+Initializare baza de date,2025-05-19 16:54:53
+Listare toti studentii din baza de date,2025-05-19 16:54:53
+Listare toti profesorii din baza de date,2025-05-19 16:54:53
+Listare toate materiile din baza de date,2025-05-19 16:54:53
+Listare toate salile din baza de date,2025-05-19 16:54:53
+Cautare materie dupa cod in baza de date,2025-05-19 16:54:53
+Cautare profesor dupa ID in baza de date,2025-05-19 16:54:53
+Cautare sala dupa ID in baza de date,2025-05-19 16:54:53
+Cautare materie dupa cod in baza de date,2025-05-19 16:54:53
+Cautare profesor dupa ID in baza de date,2025-05-19 16:54:53
+Cautare sala dupa ID in baza de date,2025-05-19 16:54:53
+Cautare materie dupa cod in baza de date,2025-05-19 16:54:53
+Cautare profesor dupa ID in baza de date,2025-05-19 16:54:53
+Cautare sala dupa ID in baza de date,2025-05-19 16:54:53
+Cautare materie dupa cod in baza de date,2025-05-19 16:54:53
+Cautare profesor dupa ID in baza de date,2025-05-19 16:54:53
+Cautare sala dupa ID in baza de date,2025-05-19 16:54:53
+Cautare materie dupa cod in baza de date,2025-05-19 16:54:53
+Cautare profesor dupa ID in baza de date,2025-05-19 16:54:53
+Cautare sala dupa ID in baza de date,2025-05-19 16:54:53
+Cautare materie dupa cod in baza de date,2025-05-19 16:54:53
+Cautare profesor dupa ID in baza de date,2025-05-19 16:54:53
+Cautare sala dupa ID in baza de date,2025-05-19 16:54:53
+Listare toate cursurile din baza de date,2025-05-19 16:54:53
+Cautare student dupa ID in baza de date,2025-05-19 16:55:01
+Cautare cursuri dupa ID student in baza de date,2025-05-19 16:55:01
+Verificare conflict orar student,2025-05-19 16:55:01
+Cautare student dupa ID in baza de date,2025-05-19 16:55:01
+Salvare inscriere in baza de date,2025-05-19 16:55:01
+Inscriere student la materie,2025-05-19 16:55:01
+Cautare student dupa ID in baza de date,2025-05-19 16:55:31
+Cautare materie dupa cod in baza de date,2025-05-19 16:55:31
+Cautare profesor dupa ID in baza de date,2025-05-19 16:55:31
+Cautare sala dupa ID in baza de date,2025-05-19 16:55:31
+Cautare student dupa ID in baza de date,2025-05-19 16:55:31
+Cautare student dupa ID in baza de date,2025-05-19 16:55:31
+Cautare cursuri dupa ID student in baza de date,2025-05-19 16:55:31
+Obtinere cursuri student,2025-05-19 16:55:31
+Cautare student dupa ID in baza de date,2025-05-19 16:55:54
+Cautare materie dupa cod in baza de date,2025-05-19 16:55:54
+Cautare profesor dupa ID in baza de date,2025-05-19 16:55:54
+Cautare sala dupa ID in baza de date,2025-05-19 16:55:54
+Cautare student dupa ID in baza de date,2025-05-19 16:55:54
+Cautare student dupa ID in baza de date,2025-05-19 16:55:54
+Cautare cursuri dupa ID student in baza de date,2025-05-19 16:55:54
+Verificare conflict orar student,2025-05-19 16:55:54
+Cautare student dupa ID in baza de date,2025-05-19 16:56:05
+Cautare materie dupa cod in baza de date,2025-05-19 16:56:05
+Cautare profesor dupa ID in baza de date,2025-05-19 16:56:05
+Cautare sala dupa ID in baza de date,2025-05-19 16:56:05
+Cautare student dupa ID in baza de date,2025-05-19 16:56:05
+Cautare student dupa ID in baza de date,2025-05-19 16:56:05
+Cautare cursuri dupa ID student in baza de date,2025-05-19 16:56:05
+Verificare conflict orar student,2025-05-19 16:56:05
+Cautare student dupa ID in baza de date,2025-05-19 16:56:18
+Cautare materie dupa cod in baza de date,2025-05-19 16:56:18
+Cautare profesor dupa ID in baza de date,2025-05-19 16:56:18
+Cautare sala dupa ID in baza de date,2025-05-19 16:56:18
+Cautare student dupa ID in baza de date,2025-05-19 16:56:18
+Cautare student dupa ID in baza de date,2025-05-19 16:56:18
+Cautare cursuri dupa ID student in baza de date,2025-05-19 16:56:18
+Verificare conflict orar student,2025-05-19 16:56:18
+Cautare student dupa ID in baza de date,2025-05-19 16:56:18
+Salvare inscriere in baza de date,2025-05-19 16:56:18
+Inscriere student la materie,2025-05-19 16:56:18
+Cautare student dupa ID in baza de date,2025-05-19 16:56:27
+Cautare materie dupa cod in baza de date,2025-05-19 16:56:27
+Cautare profesor dupa ID in baza de date,2025-05-19 16:56:27
+Cautare sala dupa ID in baza de date,2025-05-19 16:56:27
+Cautare student dupa ID in baza de date,2025-05-19 16:56:27
+Cautare student dupa ID in baza de date,2025-05-19 16:56:27
+Cautare materie dupa cod in baza de date,2025-05-19 16:56:27
+Cautare profesor dupa ID in baza de date,2025-05-19 16:56:27
+Cautare sala dupa ID in baza de date,2025-05-19 16:56:27
+Cautare student dupa ID in baza de date,2025-05-19 16:56:27
+Cautare student dupa ID in baza de date,2025-05-19 16:56:27
+Cautare cursuri dupa ID student in baza de date,2025-05-19 16:56:27
+Verificare conflict orar student,2025-05-19 16:56:27
+Cautare student dupa ID in baza de date,2025-05-19 16:56:27
+Salvare inscriere in baza de date,2025-05-19 16:56:27
+Inscriere student la materie,2025-05-19 16:56:27
+Cautare student dupa ID in baza de date,2025-05-19 16:56:33
+Cautare cursuri dupa ID student in baza de date,2025-05-19 16:56:33
+Verificare conflict orar student,2025-05-19 16:56:33
+Cautare student dupa ID in baza de date,2025-05-19 16:56:33
+Salvare inscriere in baza de date,2025-05-19 16:56:33
+Inscriere student la materie,2025-05-19 16:56:33
+Cautare student dupa ID in baza de date,2025-05-19 16:56:41
+Cautare materie dupa cod in baza de date,2025-05-19 16:56:41
+Cautare profesor dupa ID in baza de date,2025-05-19 16:56:41
+Cautare sala dupa ID in baza de date,2025-05-19 16:56:41
+Cautare student dupa ID in baza de date,2025-05-19 16:56:41
+Cautare student dupa ID in baza de date,2025-05-19 16:56:41
+Cautare student dupa ID in baza de date,2025-05-19 16:56:41
+Cautare cursuri dupa ID student in baza de date,2025-05-19 16:56:41
+Verificare conflict orar student,2025-05-19 16:56:41
+Cautare student dupa ID in baza de date,2025-05-19 16:56:41
+Salvare inscriere in baza de date,2025-05-19 16:56:41
+Inscriere student la materie,2025-05-19 16:56:41
+Cautare student dupa ID in baza de date,2025-05-19 16:56:53
+Cautare cursuri dupa ID student in baza de date,2025-05-19 16:56:53
+Verificare conflict orar student,2025-05-19 16:56:53
+Cautare student dupa ID in baza de date,2025-05-19 16:56:53
+Salvare inscriere in baza de date,2025-05-19 16:56:53
+Inscriere student la materie,2025-05-19 16:56:53
+Cautare student dupa ID in baza de date,2025-05-19 16:57:01
+Cautare materie dupa cod in baza de date,2025-05-19 16:57:01
+Cautare profesor dupa ID in baza de date,2025-05-19 16:57:01
+Cautare sala dupa ID in baza de date,2025-05-19 16:57:01
+Cautare student dupa ID in baza de date,2025-05-19 16:57:01
+Cautare student dupa ID in baza de date,2025-05-19 16:57:01
+Cautare student dupa ID in baza de date,2025-05-19 16:57:01
+Cautare student dupa ID in baza de date,2025-05-19 16:57:01
+Cautare cursuri dupa ID student in baza de date,2025-05-19 16:57:01
+Verificare conflict orar student,2025-05-19 16:57:01
+Cautare student dupa ID in baza de date,2025-05-19 16:57:01
+Salvare inscriere in baza de date,2025-05-19 16:57:01
+Inscriere student la materie,2025-05-19 16:57:01
+Cautare student dupa ID in baza de date,2025-05-19 16:57:08
+Cautare cursuri dupa ID student in baza de date,2025-05-19 16:57:08
+Verificare conflict orar student,2025-05-19 16:57:08
+Cautare student dupa ID in baza de date,2025-05-19 16:57:08
+Salvare inscriere in baza de date,2025-05-19 16:57:08
+Inscriere student la materie,2025-05-19 16:57:08
+Cautare student dupa ID in baza de date,2025-05-19 16:57:16
+Initializare baza de date,2025-05-19 16:57:41
+Listare toti studentii din baza de date,2025-05-19 16:57:41
+Listare toti profesorii din baza de date,2025-05-19 16:57:41
+Listare toate materiile din baza de date,2025-05-19 16:57:41
+Listare toate salile din baza de date,2025-05-19 16:57:41
+Cautare materie dupa cod in baza de date,2025-05-19 16:57:41
+Cautare profesor dupa ID in baza de date,2025-05-19 16:57:41
+Cautare sala dupa ID in baza de date,2025-05-19 16:57:41
+Cautare student dupa ID in baza de date,2025-05-19 16:57:41
+Cautare student dupa ID in baza de date,2025-05-19 16:57:41
+Cautare student dupa ID in baza de date,2025-05-19 16:57:41
+Cautare student dupa ID in baza de date,2025-05-19 16:57:41
+Cautare materie dupa cod in baza de date,2025-05-19 16:57:41
+Cautare profesor dupa ID in baza de date,2025-05-19 16:57:41
+Cautare sala dupa ID in baza de date,2025-05-19 16:57:41
+Cautare materie dupa cod in baza de date,2025-05-19 16:57:41
+Cautare profesor dupa ID in baza de date,2025-05-19 16:57:41
+Cautare sala dupa ID in baza de date,2025-05-19 16:57:41
+Cautare materie dupa cod in baza de date,2025-05-19 16:57:41
+Cautare profesor dupa ID in baza de date,2025-05-19 16:57:41
+Cautare sala dupa ID in baza de date,2025-05-19 16:57:41
+Cautare student dupa ID in baza de date,2025-05-19 16:57:41
+Cautare student dupa ID in baza de date,2025-05-19 16:57:41
+Cautare materie dupa cod in baza de date,2025-05-19 16:57:41
+Cautare profesor dupa ID in baza de date,2025-05-19 16:57:41
+Cautare sala dupa ID in baza de date,2025-05-19 16:57:41
+Cautare student dupa ID in baza de date,2025-05-19 16:57:41
+Cautare student dupa ID in baza de date,2025-05-19 16:57:41
+Cautare materie dupa cod in baza de date,2025-05-19 16:57:41
+Cautare profesor dupa ID in baza de date,2025-05-19 16:57:41
+Cautare sala dupa ID in baza de date,2025-05-19 16:57:41
+Listare toate cursurile din baza de date,2025-05-19 16:57:41
+Cautare student dupa ID in baza de date,2025-05-19 16:58:01
+Cautare student dupa ID in baza de date,2025-05-19 16:58:01
+Cautare materie dupa cod in baza de date,2025-05-19 16:58:01
+Cautare profesor dupa ID in baza de date,2025-05-19 16:58:01
+Cautare sala dupa ID in baza de date,2025-05-19 16:58:01
+Cautare student dupa ID in baza de date,2025-05-19 16:58:01
+Cautare student dupa ID in baza de date,2025-05-19 16:58:01
+Cautare student dupa ID in baza de date,2025-05-19 16:58:01
+Cautare student dupa ID in baza de date,2025-05-19 16:58:01
+Cautare student dupa ID in baza de date,2025-05-19 16:58:01
+Cautare materie dupa cod in baza de date,2025-05-19 16:58:01
+Cautare profesor dupa ID in baza de date,2025-05-19 16:58:01
+Cautare sala dupa ID in baza de date,2025-05-19 16:58:01
+Cautare student dupa ID in baza de date,2025-05-19 16:58:01
+Cautare student dupa ID in baza de date,2025-05-19 16:58:01
+Cautare student dupa ID in baza de date,2025-05-19 16:58:01
+Cautare cursuri dupa ID student in baza de date,2025-05-19 16:58:01
+Obtinere cursuri student,2025-05-19 16:58:01
+Cautare student dupa ID in baza de date,2025-05-19 16:58:01
+Calcul medie student,2025-05-19 16:58:01
+Initializare baza de date,2025-05-19 16:59:32
+Listare toti studentii din baza de date,2025-05-19 16:59:32
+Listare toti profesorii din baza de date,2025-05-19 16:59:32
+Listare toate materiile din baza de date,2025-05-19 16:59:32
+Listare toate salile din baza de date,2025-05-19 16:59:32
+Cautare materie dupa cod in baza de date,2025-05-19 16:59:32
+Cautare profesor dupa ID in baza de date,2025-05-19 16:59:32
+Cautare sala dupa ID in baza de date,2025-05-19 16:59:32
+Cautare student dupa ID in baza de date,2025-05-19 16:59:32
+Cautare student dupa ID in baza de date,2025-05-19 16:59:32
+Cautare student dupa ID in baza de date,2025-05-19 16:59:32
+Cautare student dupa ID in baza de date,2025-05-19 16:59:32
+Cautare materie dupa cod in baza de date,2025-05-19 16:59:32
+Cautare profesor dupa ID in baza de date,2025-05-19 16:59:32
+Cautare sala dupa ID in baza de date,2025-05-19 16:59:32
+Cautare materie dupa cod in baza de date,2025-05-19 16:59:32
+Cautare profesor dupa ID in baza de date,2025-05-19 16:59:32
+Cautare sala dupa ID in baza de date,2025-05-19 16:59:32
+Cautare materie dupa cod in baza de date,2025-05-19 16:59:32
+Cautare profesor dupa ID in baza de date,2025-05-19 16:59:32
+Cautare sala dupa ID in baza de date,2025-05-19 16:59:32
+Cautare student dupa ID in baza de date,2025-05-19 16:59:32
+Cautare student dupa ID in baza de date,2025-05-19 16:59:32
+Cautare materie dupa cod in baza de date,2025-05-19 16:59:32
+Cautare profesor dupa ID in baza de date,2025-05-19 16:59:32
+Cautare sala dupa ID in baza de date,2025-05-19 16:59:32
+Cautare student dupa ID in baza de date,2025-05-19 16:59:32
+Cautare student dupa ID in baza de date,2025-05-19 16:59:32
+Cautare materie dupa cod in baza de date,2025-05-19 16:59:32
+Cautare profesor dupa ID in baza de date,2025-05-19 16:59:32
+Cautare sala dupa ID in baza de date,2025-05-19 16:59:32
+Listare toate cursurile din baza de date,2025-05-19 16:59:32
+Cautare student dupa ID in baza de date,2025-05-19 16:59:41
+Cautare student dupa ID in baza de date,2025-05-19 16:59:41
+Cautare materie dupa cod in baza de date,2025-05-19 16:59:41
+Cautare profesor dupa ID in baza de date,2025-05-19 16:59:41
+Cautare sala dupa ID in baza de date,2025-05-19 16:59:41
+Cautare student dupa ID in baza de date,2025-05-19 16:59:41
+Cautare student dupa ID in baza de date,2025-05-19 16:59:41
+Cautare student dupa ID in baza de date,2025-05-19 16:59:41
+Cautare student dupa ID in baza de date,2025-05-19 16:59:41
+Cautare student dupa ID in baza de date,2025-05-19 16:59:41
+Cautare materie dupa cod in baza de date,2025-05-19 16:59:41
+Cautare profesor dupa ID in baza de date,2025-05-19 16:59:41
+Cautare sala dupa ID in baza de date,2025-05-19 16:59:41
+Cautare student dupa ID in baza de date,2025-05-19 16:59:41
+Cautare student dupa ID in baza de date,2025-05-19 16:59:41
+Cautare student dupa ID in baza de date,2025-05-19 16:59:41
+Cautare materie dupa cod in baza de date,2025-05-19 16:59:41
+Cautare profesor dupa ID in baza de date,2025-05-19 16:59:41
+Cautare sala dupa ID in baza de date,2025-05-19 16:59:41
+Cautare student dupa ID in baza de date,2025-05-19 16:59:41
+Cautare student dupa ID in baza de date,2025-05-19 16:59:41
+Cautare student dupa ID in baza de date,2025-05-19 16:59:41
+Cautare cursuri dupa ID student in baza de date,2025-05-19 16:59:41
+Obtinere cursuri student,2025-05-19 16:59:41
+Cautare student dupa ID in baza de date,2025-05-19 16:59:49
+Salvare nota in baza de date,2025-05-19 16:59:49
+Adaugare nota,2025-05-19 16:59:49
+Cautare student dupa ID in baza de date,2025-05-19 16:59:56
+Cautare student dupa ID in baza de date,2025-05-19 16:59:56
+Cautare materie dupa cod in baza de date,2025-05-19 16:59:56
+Cautare profesor dupa ID in baza de date,2025-05-19 16:59:56
+Cautare sala dupa ID in baza de date,2025-05-19 16:59:56
+Cautare student dupa ID in baza de date,2025-05-19 16:59:56
+Cautare student dupa ID in baza de date,2025-05-19 16:59:56
+Cautare student dupa ID in baza de date,2025-05-19 16:59:56
+Cautare student dupa ID in baza de date,2025-05-19 16:59:56
+Cautare student dupa ID in baza de date,2025-05-19 16:59:56
+Cautare materie dupa cod in baza de date,2025-05-19 16:59:56
+Cautare profesor dupa ID in baza de date,2025-05-19 16:59:56
+Cautare sala dupa ID in baza de date,2025-05-19 16:59:56
+Cautare student dupa ID in baza de date,2025-05-19 16:59:56
+Cautare student dupa ID in baza de date,2025-05-19 16:59:56
+Cautare student dupa ID in baza de date,2025-05-19 16:59:56
+Cautare materie dupa cod in baza de date,2025-05-19 16:59:56
+Cautare profesor dupa ID in baza de date,2025-05-19 16:59:56
+Cautare sala dupa ID in baza de date,2025-05-19 16:59:56
+Cautare student dupa ID in baza de date,2025-05-19 16:59:56
+Cautare student dupa ID in baza de date,2025-05-19 16:59:56
+Cautare student dupa ID in baza de date,2025-05-19 16:59:56
+Cautare cursuri dupa ID student in baza de date,2025-05-19 16:59:56
+Obtinere cursuri student,2025-05-19 16:59:56
+Cautare student dupa ID in baza de date,2025-05-19 17:00:02
+Salvare nota in baza de date,2025-05-19 17:00:02
+Adaugare nota,2025-05-19 17:00:02
+Cautare student dupa ID in baza de date,2025-05-19 17:00:09
+Cautare student dupa ID in baza de date,2025-05-19 17:00:09
+Cautare materie dupa cod in baza de date,2025-05-19 17:00:09
+Cautare profesor dupa ID in baza de date,2025-05-19 17:00:09
+Cautare sala dupa ID in baza de date,2025-05-19 17:00:09
+Cautare student dupa ID in baza de date,2025-05-19 17:00:09
+Cautare student dupa ID in baza de date,2025-05-19 17:00:09
+Cautare student dupa ID in baza de date,2025-05-19 17:00:09
+Cautare student dupa ID in baza de date,2025-05-19 17:00:09
+Cautare student dupa ID in baza de date,2025-05-19 17:00:09
+Cautare materie dupa cod in baza de date,2025-05-19 17:00:09
+Cautare profesor dupa ID in baza de date,2025-05-19 17:00:09
+Cautare sala dupa ID in baza de date,2025-05-19 17:00:09
+Cautare student dupa ID in baza de date,2025-05-19 17:00:09
+Cautare student dupa ID in baza de date,2025-05-19 17:00:09
+Cautare student dupa ID in baza de date,2025-05-19 17:00:09
+Cautare cursuri dupa ID student in baza de date,2025-05-19 17:00:09
+Obtinere cursuri student,2025-05-19 17:00:09
+Cautare student dupa ID in baza de date,2025-05-19 17:00:13
+Salvare nota in baza de date,2025-05-19 17:00:13
+Adaugare nota,2025-05-19 17:00:13
+Cautare student dupa ID in baza de date,2025-05-19 17:00:20
+Cautare student dupa ID in baza de date,2025-05-19 17:00:20
+Cautare materie dupa cod in baza de date,2025-05-19 17:00:20
+Cautare profesor dupa ID in baza de date,2025-05-19 17:00:20
+Cautare sala dupa ID in baza de date,2025-05-19 17:00:20
+Cautare student dupa ID in baza de date,2025-05-19 17:00:20
+Cautare student dupa ID in baza de date,2025-05-19 17:00:20
+Cautare student dupa ID in baza de date,2025-05-19 17:00:20
+Cautare student dupa ID in baza de date,2025-05-19 17:00:20
+Cautare student dupa ID in baza de date,2025-05-19 17:00:20
+Cautare materie dupa cod in baza de date,2025-05-19 17:00:20
+Cautare profesor dupa ID in baza de date,2025-05-19 17:00:20
+Cautare sala dupa ID in baza de date,2025-05-19 17:00:20
+Cautare student dupa ID in baza de date,2025-05-19 17:00:20
+Cautare student dupa ID in baza de date,2025-05-19 17:00:20
+Cautare student dupa ID in baza de date,2025-05-19 17:00:20
+Cautare materie dupa cod in baza de date,2025-05-19 17:00:20
+Cautare profesor dupa ID in baza de date,2025-05-19 17:00:20
+Cautare sala dupa ID in baza de date,2025-05-19 17:00:20
+Cautare student dupa ID in baza de date,2025-05-19 17:00:20
+Cautare student dupa ID in baza de date,2025-05-19 17:00:20
+Cautare student dupa ID in baza de date,2025-05-19 17:00:20
+Cautare cursuri dupa ID student in baza de date,2025-05-19 17:00:20
+Obtinere cursuri student,2025-05-19 17:00:20
+Cautare student dupa ID in baza de date,2025-05-19 17:00:20
+Calcul medie student,2025-05-19 17:00:20
+Initializare baza de date,2025-05-19 17:02:33
+Listare toti studentii din baza de date,2025-05-19 17:02:33
+Listare toti profesorii din baza de date,2025-05-19 17:02:33
+Listare toate materiile din baza de date,2025-05-19 17:02:33
+Listare toate salile din baza de date,2025-05-19 17:02:33
+Cautare materie dupa cod in baza de date,2025-05-19 17:02:33
+Cautare profesor dupa ID in baza de date,2025-05-19 17:02:33
+Cautare sala dupa ID in baza de date,2025-05-19 17:02:33
+Cautare student dupa ID in baza de date,2025-05-19 17:02:33
+Cautare student dupa ID in baza de date,2025-05-19 17:02:33
+Cautare student dupa ID in baza de date,2025-05-19 17:02:33
+Cautare student dupa ID in baza de date,2025-05-19 17:02:33
+Cautare materie dupa cod in baza de date,2025-05-19 17:02:33
+Cautare profesor dupa ID in baza de date,2025-05-19 17:02:33
+Cautare sala dupa ID in baza de date,2025-05-19 17:02:33
+Cautare materie dupa cod in baza de date,2025-05-19 17:02:33
+Cautare profesor dupa ID in baza de date,2025-05-19 17:02:33
+Cautare sala dupa ID in baza de date,2025-05-19 17:02:33
+Cautare materie dupa cod in baza de date,2025-05-19 17:02:33
+Cautare profesor dupa ID in baza de date,2025-05-19 17:02:33
+Cautare sala dupa ID in baza de date,2025-05-19 17:02:34
+Cautare student dupa ID in baza de date,2025-05-19 17:02:34
+Cautare student dupa ID in baza de date,2025-05-19 17:02:34
+Cautare materie dupa cod in baza de date,2025-05-19 17:02:34
+Cautare profesor dupa ID in baza de date,2025-05-19 17:02:34
+Cautare sala dupa ID in baza de date,2025-05-19 17:02:34
+Cautare student dupa ID in baza de date,2025-05-19 17:02:34
+Cautare student dupa ID in baza de date,2025-05-19 17:02:34
+Cautare materie dupa cod in baza de date,2025-05-19 17:02:34
+Cautare profesor dupa ID in baza de date,2025-05-19 17:02:34
+Cautare sala dupa ID in baza de date,2025-05-19 17:02:34
+Listare toate cursurile din baza de date,2025-05-19 17:02:34
+Cautare student dupa ID in baza de date,2025-05-19 17:02:43
+Cautare student dupa ID in baza de date,2025-05-19 17:02:43
+Cautare materie dupa cod in baza de date,2025-05-19 17:02:43
+Cautare profesor dupa ID in baza de date,2025-05-19 17:02:43
+Cautare sala dupa ID in baza de date,2025-05-19 17:02:43
+Cautare student dupa ID in baza de date,2025-05-19 17:02:43
+Cautare student dupa ID in baza de date,2025-05-19 17:02:43
+Cautare student dupa ID in baza de date,2025-05-19 17:02:43
+Cautare student dupa ID in baza de date,2025-05-19 17:02:43
+Cautare student dupa ID in baza de date,2025-05-19 17:02:43
+Cautare materie dupa cod in baza de date,2025-05-19 17:02:43
+Cautare profesor dupa ID in baza de date,2025-05-19 17:02:43
+Cautare sala dupa ID in baza de date,2025-05-19 17:02:43
+Cautare student dupa ID in baza de date,2025-05-19 17:02:43
+Cautare student dupa ID in baza de date,2025-05-19 17:02:43
+Cautare student dupa ID in baza de date,2025-05-19 17:02:43
+Cautare materie dupa cod in baza de date,2025-05-19 17:02:43
+Cautare profesor dupa ID in baza de date,2025-05-19 17:02:43
+Cautare sala dupa ID in baza de date,2025-05-19 17:02:43
+Cautare student dupa ID in baza de date,2025-05-19 17:02:43
+Cautare student dupa ID in baza de date,2025-05-19 17:02:43
+Cautare student dupa ID in baza de date,2025-05-19 17:02:43
+Cautare cursuri dupa ID student in baza de date,2025-05-19 17:02:43
+Obtinere cursuri student,2025-05-19 17:02:43
+Cautare note dupa ID student in baza de date,2025-05-19 17:02:43
+Cautare student dupa ID in baza de date,2025-05-19 17:02:43
+Calcul medie student,2025-05-19 17:02:43
+Cautare student dupa ID in baza de date,2025-05-19 17:02:51
+Cautare student dupa ID in baza de date,2025-05-19 17:02:51
+Cautare materie dupa cod in baza de date,2025-05-19 17:02:51
+Cautare profesor dupa ID in baza de date,2025-05-19 17:02:51
+Cautare sala dupa ID in baza de date,2025-05-19 17:02:51
+Cautare student dupa ID in baza de date,2025-05-19 17:02:51
+Cautare student dupa ID in baza de date,2025-05-19 17:02:51
+Cautare student dupa ID in baza de date,2025-05-19 17:02:51
+Cautare student dupa ID in baza de date,2025-05-19 17:02:51
+Cautare student dupa ID in baza de date,2025-05-19 17:02:51
+Cautare materie dupa cod in baza de date,2025-05-19 17:02:51
+Cautare profesor dupa ID in baza de date,2025-05-19 17:02:51
+Cautare sala dupa ID in baza de date,2025-05-19 17:02:51
+Cautare student dupa ID in baza de date,2025-05-19 17:02:51
+Cautare student dupa ID in baza de date,2025-05-19 17:02:51
+Cautare student dupa ID in baza de date,2025-05-19 17:02:51
+Cautare materie dupa cod in baza de date,2025-05-19 17:02:51
+Cautare profesor dupa ID in baza de date,2025-05-19 17:02:51
+Cautare sala dupa ID in baza de date,2025-05-19 17:02:51
+Cautare student dupa ID in baza de date,2025-05-19 17:02:51
+Cautare student dupa ID in baza de date,2025-05-19 17:02:51
+Cautare student dupa ID in baza de date,2025-05-19 17:02:51
+Cautare cursuri dupa ID student in baza de date,2025-05-19 17:02:51
+Obtinere cursuri student,2025-05-19 17:02:51
+Cautare student dupa ID in baza de date,2025-05-19 17:03:03
+Cautare student dupa ID in baza de date,2025-05-19 17:03:03
+Cautare materie dupa cod in baza de date,2025-05-19 17:03:03
+Cautare profesor dupa ID in baza de date,2025-05-19 17:03:03
+Cautare sala dupa ID in baza de date,2025-05-19 17:03:03
+Cautare student dupa ID in baza de date,2025-05-19 17:03:03
+Cautare student dupa ID in baza de date,2025-05-19 17:03:03
+Cautare student dupa ID in baza de date,2025-05-19 17:03:03
+Cautare student dupa ID in baza de date,2025-05-19 17:03:03
+Cautare student dupa ID in baza de date,2025-05-19 17:03:03
+Cautare materie dupa cod in baza de date,2025-05-19 17:03:03
+Cautare profesor dupa ID in baza de date,2025-05-19 17:03:03
+Cautare sala dupa ID in baza de date,2025-05-19 17:03:03
+Cautare student dupa ID in baza de date,2025-05-19 17:03:03
+Cautare student dupa ID in baza de date,2025-05-19 17:03:03
+Cautare student dupa ID in baza de date,2025-05-19 17:03:03
+Cautare materie dupa cod in baza de date,2025-05-19 17:03:03
+Cautare profesor dupa ID in baza de date,2025-05-19 17:03:03
+Cautare sala dupa ID in baza de date,2025-05-19 17:03:03
+Cautare student dupa ID in baza de date,2025-05-19 17:03:03
+Cautare student dupa ID in baza de date,2025-05-19 17:03:03
+Cautare student dupa ID in baza de date,2025-05-19 17:03:03
+Cautare cursuri dupa ID student in baza de date,2025-05-19 17:03:03
+Obtinere cursuri student,2025-05-19 17:03:03
+Cautare student dupa ID in baza de date,2025-05-19 17:03:06
+Salvare nota in baza de date,2025-05-19 17:03:06
+Adaugare nota,2025-05-19 17:03:06
+Cautare student dupa ID in baza de date,2025-05-19 17:03:15
+Cautare student dupa ID in baza de date,2025-05-19 17:03:15
+Cautare materie dupa cod in baza de date,2025-05-19 17:03:15
+Cautare profesor dupa ID in baza de date,2025-05-19 17:03:15
+Cautare sala dupa ID in baza de date,2025-05-19 17:03:15
+Cautare student dupa ID in baza de date,2025-05-19 17:03:15
+Cautare student dupa ID in baza de date,2025-05-19 17:03:15
+Cautare student dupa ID in baza de date,2025-05-19 17:03:15
+Cautare student dupa ID in baza de date,2025-05-19 17:03:15
+Cautare student dupa ID in baza de date,2025-05-19 17:03:15
+Cautare materie dupa cod in baza de date,2025-05-19 17:03:15
+Cautare profesor dupa ID in baza de date,2025-05-19 17:03:15
+Cautare sala dupa ID in baza de date,2025-05-19 17:03:15
+Cautare student dupa ID in baza de date,2025-05-19 17:03:15
+Cautare student dupa ID in baza de date,2025-05-19 17:03:15
+Cautare student dupa ID in baza de date,2025-05-19 17:03:15
+Cautare materie dupa cod in baza de date,2025-05-19 17:03:15
+Cautare profesor dupa ID in baza de date,2025-05-19 17:03:15
+Cautare sala dupa ID in baza de date,2025-05-19 17:03:15
+Cautare student dupa ID in baza de date,2025-05-19 17:03:15
+Cautare student dupa ID in baza de date,2025-05-19 17:03:15
+Cautare student dupa ID in baza de date,2025-05-19 17:03:15
+Cautare cursuri dupa ID student in baza de date,2025-05-19 17:03:15
+Obtinere cursuri student,2025-05-19 17:03:15
+Cautare note dupa ID student in baza de date,2025-05-19 17:03:15
+Cautare student dupa ID in baza de date,2025-05-19 17:03:15
+Calcul medie student,2025-05-19 17:03:15
+Initializare baza de date,2025-05-19 17:05:28
+Listare toti studentii din baza de date,2025-05-19 17:05:28
+Listare toti profesorii din baza de date,2025-05-19 17:05:28
+Listare toate materiile din baza de date,2025-05-19 17:05:28
+Listare toate salile din baza de date,2025-05-19 17:05:28
+Cautare materie dupa cod in baza de date,2025-05-19 17:05:28
+Cautare profesor dupa ID in baza de date,2025-05-19 17:05:28
+Cautare sala dupa ID in baza de date,2025-05-19 17:05:28
+Cautare student dupa ID in baza de date,2025-05-19 17:05:28
+Cautare student dupa ID in baza de date,2025-05-19 17:05:28
+Cautare student dupa ID in baza de date,2025-05-19 17:05:28
+Cautare student dupa ID in baza de date,2025-05-19 17:05:28
+Cautare materie dupa cod in baza de date,2025-05-19 17:05:28
+Cautare profesor dupa ID in baza de date,2025-05-19 17:05:28
+Cautare sala dupa ID in baza de date,2025-05-19 17:05:28
+Cautare materie dupa cod in baza de date,2025-05-19 17:05:28
+Cautare profesor dupa ID in baza de date,2025-05-19 17:05:28
+Cautare sala dupa ID in baza de date,2025-05-19 17:05:28
+Cautare materie dupa cod in baza de date,2025-05-19 17:05:28
+Cautare profesor dupa ID in baza de date,2025-05-19 17:05:28
+Cautare sala dupa ID in baza de date,2025-05-19 17:05:28
+Cautare student dupa ID in baza de date,2025-05-19 17:05:28
+Cautare student dupa ID in baza de date,2025-05-19 17:05:28
+Cautare materie dupa cod in baza de date,2025-05-19 17:05:28
+Cautare profesor dupa ID in baza de date,2025-05-19 17:05:28
+Cautare sala dupa ID in baza de date,2025-05-19 17:05:28
+Cautare student dupa ID in baza de date,2025-05-19 17:05:28
+Cautare student dupa ID in baza de date,2025-05-19 17:05:28
+Cautare materie dupa cod in baza de date,2025-05-19 17:05:28
+Cautare profesor dupa ID in baza de date,2025-05-19 17:05:28
+Cautare sala dupa ID in baza de date,2025-05-19 17:05:28
+Listare toate cursurile din baza de date,2025-05-19 17:05:28
+Cautare student dupa ID in baza de date,2025-05-19 17:05:45
+Cautare student dupa ID in baza de date,2025-05-19 17:05:45
+Cautare materie dupa cod in baza de date,2025-05-19 17:05:45
+Cautare profesor dupa ID in baza de date,2025-05-19 17:05:45
+Cautare sala dupa ID in baza de date,2025-05-19 17:05:45
+Cautare student dupa ID in baza de date,2025-05-19 17:05:46
+Cautare student dupa ID in baza de date,2025-05-19 17:05:46
+Cautare student dupa ID in baza de date,2025-05-19 17:05:46
+Cautare student dupa ID in baza de date,2025-05-19 17:05:46
+Cautare student dupa ID in baza de date,2025-05-19 17:05:46
+Cautare materie dupa cod in baza de date,2025-05-19 17:05:46
+Cautare profesor dupa ID in baza de date,2025-05-19 17:05:46
+Cautare sala dupa ID in baza de date,2025-05-19 17:05:46
+Cautare student dupa ID in baza de date,2025-05-19 17:05:46
+Cautare student dupa ID in baza de date,2025-05-19 17:05:46
+Cautare student dupa ID in baza de date,2025-05-19 17:05:46
+Cautare materie dupa cod in baza de date,2025-05-19 17:05:46
+Cautare profesor dupa ID in baza de date,2025-05-19 17:05:46
+Cautare sala dupa ID in baza de date,2025-05-19 17:05:46
+Cautare student dupa ID in baza de date,2025-05-19 17:05:46
+Cautare student dupa ID in baza de date,2025-05-19 17:05:46
+Cautare student dupa ID in baza de date,2025-05-19 17:05:46
+Cautare cursuri dupa ID student in baza de date,2025-05-19 17:05:46
+Obtinere cursuri student,2025-05-19 17:05:46
+Cautare student dupa ID in baza de date,2025-05-19 17:05:49
+Salvare nota in baza de date,2025-05-19 17:05:49
+Adaugare nota,2025-05-19 17:05:49
+Cautare student dupa ID in baza de date,2025-05-19 17:05:59
+Cautare student dupa ID in baza de date,2025-05-19 17:05:59
+Cautare materie dupa cod in baza de date,2025-05-19 17:05:59
+Cautare profesor dupa ID in baza de date,2025-05-19 17:05:59
+Cautare sala dupa ID in baza de date,2025-05-19 17:05:59
+Cautare student dupa ID in baza de date,2025-05-19 17:05:59
+Cautare student dupa ID in baza de date,2025-05-19 17:05:59
+Cautare student dupa ID in baza de date,2025-05-19 17:05:59
+Cautare student dupa ID in baza de date,2025-05-19 17:05:59
+Cautare student dupa ID in baza de date,2025-05-19 17:05:59
+Cautare materie dupa cod in baza de date,2025-05-19 17:05:59
+Cautare profesor dupa ID in baza de date,2025-05-19 17:05:59
+Cautare sala dupa ID in baza de date,2025-05-19 17:05:59
+Cautare student dupa ID in baza de date,2025-05-19 17:05:59
+Cautare student dupa ID in baza de date,2025-05-19 17:05:59
+Cautare student dupa ID in baza de date,2025-05-19 17:05:59
+Cautare materie dupa cod in baza de date,2025-05-19 17:05:59
+Cautare profesor dupa ID in baza de date,2025-05-19 17:05:59
+Cautare sala dupa ID in baza de date,2025-05-19 17:05:59
+Cautare student dupa ID in baza de date,2025-05-19 17:05:59
+Cautare student dupa ID in baza de date,2025-05-19 17:05:59
+Cautare student dupa ID in baza de date,2025-05-19 17:05:59
+Cautare cursuri dupa ID student in baza de date,2025-05-19 17:05:59
+Obtinere cursuri student,2025-05-19 17:05:59
+Cautare student dupa ID in baza de date,2025-05-19 17:05:59
+Cautare materie dupa cod in baza de date,2025-05-19 17:05:59
+Cautare profesor dupa ID in baza de date,2025-05-19 17:05:59
+Cautare sala dupa ID in baza de date,2025-05-19 17:05:59
+Cautare student dupa ID in baza de date,2025-05-19 17:05:59
+Cautare student dupa ID in baza de date,2025-05-19 17:05:59
+Cautare student dupa ID in baza de date,2025-05-19 17:05:59
+Cautare student dupa ID in baza de date,2025-05-19 17:05:59
+Cautare curs dupa ID in baza de date,2025-05-19 17:05:59
+Cautare note dupa ID student in baza de date,2025-05-19 17:05:59
+Cautare student dupa ID in baza de date,2025-05-19 17:05:59
+Calcul medie student,2025-05-19 17:05:59
+Initializare baza de date,2025-05-19 17:20:26
+Listare toti studentii din baza de date,2025-05-19 17:20:26
+Listare toti profesorii din baza de date,2025-05-19 17:20:26
+Listare toate materiile din baza de date,2025-05-19 17:20:26
+Listare toate salile din baza de date,2025-05-19 17:20:26
+Cautare materie dupa cod in baza de date,2025-05-19 17:20:26
+Cautare profesor dupa ID in baza de date,2025-05-19 17:20:26
+Cautare sala dupa ID in baza de date,2025-05-19 17:20:26
+Cautare student dupa ID in baza de date,2025-05-19 17:20:26
+Cautare student dupa ID in baza de date,2025-05-19 17:20:26
+Cautare student dupa ID in baza de date,2025-05-19 17:20:26
+Cautare student dupa ID in baza de date,2025-05-19 17:20:26
+Cautare materie dupa cod in baza de date,2025-05-19 17:20:26
+Cautare profesor dupa ID in baza de date,2025-05-19 17:20:26
+Cautare sala dupa ID in baza de date,2025-05-19 17:20:26
+Cautare materie dupa cod in baza de date,2025-05-19 17:20:26
+Cautare profesor dupa ID in baza de date,2025-05-19 17:20:26
+Cautare sala dupa ID in baza de date,2025-05-19 17:20:26
+Cautare materie dupa cod in baza de date,2025-05-19 17:20:26
+Cautare profesor dupa ID in baza de date,2025-05-19 17:20:26
+Cautare sala dupa ID in baza de date,2025-05-19 17:20:26
+Cautare student dupa ID in baza de date,2025-05-19 17:20:26
+Cautare student dupa ID in baza de date,2025-05-19 17:20:26
+Cautare materie dupa cod in baza de date,2025-05-19 17:20:26
+Cautare profesor dupa ID in baza de date,2025-05-19 17:20:26
+Cautare sala dupa ID in baza de date,2025-05-19 17:20:26
+Cautare student dupa ID in baza de date,2025-05-19 17:20:26
+Cautare student dupa ID in baza de date,2025-05-19 17:20:26
+Cautare materie dupa cod in baza de date,2025-05-19 17:20:26
+Cautare profesor dupa ID in baza de date,2025-05-19 17:20:26
+Cautare sala dupa ID in baza de date,2025-05-19 17:20:26
+Listare toate cursurile din baza de date,2025-05-19 17:20:26
+Cautare student dupa ID in baza de date,2025-05-19 17:20:58
+Cautare student dupa ID in baza de date,2025-05-19 17:20:58
+Cautare materie dupa cod in baza de date,2025-05-19 17:20:58
+Cautare profesor dupa ID in baza de date,2025-05-19 17:20:58
+Cautare sala dupa ID in baza de date,2025-05-19 17:20:58
+Cautare student dupa ID in baza de date,2025-05-19 17:20:58
+Cautare student dupa ID in baza de date,2025-05-19 17:20:58
+Cautare student dupa ID in baza de date,2025-05-19 17:20:58
+Cautare student dupa ID in baza de date,2025-05-19 17:20:58
+Cautare student dupa ID in baza de date,2025-05-19 17:20:58
+Cautare materie dupa cod in baza de date,2025-05-19 17:20:58
+Cautare profesor dupa ID in baza de date,2025-05-19 17:20:58
+Cautare sala dupa ID in baza de date,2025-05-19 17:20:58
+Cautare student dupa ID in baza de date,2025-05-19 17:20:58
+Cautare student dupa ID in baza de date,2025-05-19 17:20:58
+Cautare student dupa ID in baza de date,2025-05-19 17:20:58
+Cautare materie dupa cod in baza de date,2025-05-19 17:20:58
+Cautare profesor dupa ID in baza de date,2025-05-19 17:20:58
+Cautare sala dupa ID in baza de date,2025-05-19 17:20:58
+Cautare student dupa ID in baza de date,2025-05-19 17:20:58
+Cautare student dupa ID in baza de date,2025-05-19 17:20:58
+Cautare student dupa ID in baza de date,2025-05-19 17:20:58
+Cautare cursuri dupa ID student in baza de date,2025-05-19 17:20:58
+Obtinere cursuri student,2025-05-19 17:20:58
+Cautare student dupa ID in baza de date,2025-05-19 17:20:58
+Cautare materie dupa cod in baza de date,2025-05-19 17:20:58
+Cautare profesor dupa ID in baza de date,2025-05-19 17:20:58
+Cautare sala dupa ID in baza de date,2025-05-19 17:20:58
+Cautare student dupa ID in baza de date,2025-05-19 17:20:58
+Cautare student dupa ID in baza de date,2025-05-19 17:20:58
+Cautare student dupa ID in baza de date,2025-05-19 17:20:58
+Cautare student dupa ID in baza de date,2025-05-19 17:20:58
+Cautare curs dupa ID in baza de date,2025-05-19 17:20:58
+Cautare note dupa ID student in baza de date,2025-05-19 17:20:58
+Cautare student dupa ID in baza de date,2025-05-19 17:20:58
+Calcul medie student,S1,2025-05-19 17:20:58
+Cautare student dupa ID in baza de date,2025-05-19 17:21:10
+Cautare student dupa ID in baza de date,2025-05-19 17:21:10
+Cautare materie dupa cod in baza de date,2025-05-19 17:21:10
+Cautare profesor dupa ID in baza de date,2025-05-19 17:21:10
+Cautare sala dupa ID in baza de date,2025-05-19 17:21:10
+Cautare student dupa ID in baza de date,2025-05-19 17:21:10
+Cautare student dupa ID in baza de date,2025-05-19 17:21:10
+Cautare student dupa ID in baza de date,2025-05-19 17:21:10
+Cautare student dupa ID in baza de date,2025-05-19 17:21:10
+Cautare student dupa ID in baza de date,2025-05-19 17:21:10
+Cautare materie dupa cod in baza de date,2025-05-19 17:21:10
+Cautare profesor dupa ID in baza de date,2025-05-19 17:21:10
+Cautare sala dupa ID in baza de date,2025-05-19 17:21:10
+Cautare student dupa ID in baza de date,2025-05-19 17:21:10
+Cautare student dupa ID in baza de date,2025-05-19 17:21:10
+Cautare student dupa ID in baza de date,2025-05-19 17:21:10
+Cautare materie dupa cod in baza de date,2025-05-19 17:21:10
+Cautare profesor dupa ID in baza de date,2025-05-19 17:21:10
+Cautare sala dupa ID in baza de date,2025-05-19 17:21:10
+Cautare student dupa ID in baza de date,2025-05-19 17:21:10
+Cautare student dupa ID in baza de date,2025-05-19 17:21:10
+Cautare student dupa ID in baza de date,2025-05-19 17:21:10
+Cautare cursuri dupa ID student in baza de date,2025-05-19 17:21:10
+Obtinere cursuri student,2025-05-19 17:21:10
+Cautare student dupa ID in baza de date,2025-05-19 17:21:22
+Cautare materie dupa cod in baza de date,2025-05-19 17:21:22
+Cautare profesor dupa ID in baza de date,2025-05-19 17:21:22
+Cautare sala dupa ID in baza de date,2025-05-19 17:21:22
+Cautare student dupa ID in baza de date,2025-05-19 17:21:22
+Cautare student dupa ID in baza de date,2025-05-19 17:21:22
+Cautare student dupa ID in baza de date,2025-05-19 17:21:22
+Cautare student dupa ID in baza de date,2025-05-19 17:21:22
+Cautare curs dupa ID in baza de date,2025-05-19 17:21:22
+Cautare note dupa ID student si ID curs in baza de date,2025-05-19 17:21:22
+Stergere nota specifica din baza de date,2025-05-19 17:21:22
+Cautare student dupa ID in baza de date,2025-05-19 17:21:36
+Cautare student dupa ID in baza de date,2025-05-19 17:21:36
+Cautare materie dupa cod in baza de date,2025-05-19 17:21:36
+Cautare profesor dupa ID in baza de date,2025-05-19 17:21:36
+Cautare sala dupa ID in baza de date,2025-05-19 17:21:36
+Cautare student dupa ID in baza de date,2025-05-19 17:21:36
+Cautare student dupa ID in baza de date,2025-05-19 17:21:36
+Cautare student dupa ID in baza de date,2025-05-19 17:21:36
+Cautare student dupa ID in baza de date,2025-05-19 17:21:36
+Cautare student dupa ID in baza de date,2025-05-19 17:21:36
+Cautare materie dupa cod in baza de date,2025-05-19 17:21:36
+Cautare profesor dupa ID in baza de date,2025-05-19 17:21:36
+Cautare sala dupa ID in baza de date,2025-05-19 17:21:36
+Cautare student dupa ID in baza de date,2025-05-19 17:21:36
+Cautare student dupa ID in baza de date,2025-05-19 17:21:36
+Cautare student dupa ID in baza de date,2025-05-19 17:21:36
+Cautare materie dupa cod in baza de date,2025-05-19 17:21:36
+Cautare profesor dupa ID in baza de date,2025-05-19 17:21:36
+Cautare sala dupa ID in baza de date,2025-05-19 17:21:36
+Cautare student dupa ID in baza de date,2025-05-19 17:21:36
+Cautare student dupa ID in baza de date,2025-05-19 17:21:36
+Cautare student dupa ID in baza de date,2025-05-19 17:21:36
+Cautare cursuri dupa ID student in baza de date,2025-05-19 17:21:36
+Obtinere cursuri student,2025-05-19 17:21:36
+Cautare note dupa ID student in baza de date,2025-05-19 17:21:36
+Cautare student dupa ID in baza de date,2025-05-19 17:21:36
+Calcul medie student,S1,2025-05-19 17:21:36
+Initializare baza de date,2025-05-19 17:21:49
+Listare toti studentii din baza de date,2025-05-19 17:21:49
+Listare toti profesorii din baza de date,2025-05-19 17:21:49
+Listare toate materiile din baza de date,2025-05-19 17:21:49
+Listare toate salile din baza de date,2025-05-19 17:21:49
+Cautare materie dupa cod in baza de date,2025-05-19 17:21:49
+Cautare profesor dupa ID in baza de date,2025-05-19 17:21:49
+Cautare sala dupa ID in baza de date,2025-05-19 17:21:49
+Cautare student dupa ID in baza de date,2025-05-19 17:21:49
+Cautare student dupa ID in baza de date,2025-05-19 17:21:49
+Cautare student dupa ID in baza de date,2025-05-19 17:21:49
+Cautare student dupa ID in baza de date,2025-05-19 17:21:49
+Cautare materie dupa cod in baza de date,2025-05-19 17:21:49
+Cautare profesor dupa ID in baza de date,2025-05-19 17:21:49
+Cautare sala dupa ID in baza de date,2025-05-19 17:21:49
+Cautare materie dupa cod in baza de date,2025-05-19 17:21:49
+Cautare profesor dupa ID in baza de date,2025-05-19 17:21:49
+Cautare sala dupa ID in baza de date,2025-05-19 17:21:49
+Cautare materie dupa cod in baza de date,2025-05-19 17:21:49
+Cautare profesor dupa ID in baza de date,2025-05-19 17:21:49
+Cautare sala dupa ID in baza de date,2025-05-19 17:21:49
+Cautare student dupa ID in baza de date,2025-05-19 17:21:49
+Cautare student dupa ID in baza de date,2025-05-19 17:21:49
+Cautare materie dupa cod in baza de date,2025-05-19 17:21:49
+Cautare profesor dupa ID in baza de date,2025-05-19 17:21:49
+Cautare sala dupa ID in baza de date,2025-05-19 17:21:49
+Cautare student dupa ID in baza de date,2025-05-19 17:21:49
+Cautare student dupa ID in baza de date,2025-05-19 17:21:49
+Cautare materie dupa cod in baza de date,2025-05-19 17:21:49
+Cautare profesor dupa ID in baza de date,2025-05-19 17:21:49
+Cautare sala dupa ID in baza de date,2025-05-19 17:21:49
+Listare toate cursurile din baza de date,2025-05-19 17:21:49
+Cautare student dupa ID in baza de date,2025-05-19 17:21:56
+Cautare student dupa ID in baza de date,2025-05-19 17:21:56
+Cautare materie dupa cod in baza de date,2025-05-19 17:21:56
+Cautare profesor dupa ID in baza de date,2025-05-19 17:21:56
+Cautare sala dupa ID in baza de date,2025-05-19 17:21:57
+Cautare student dupa ID in baza de date,2025-05-19 17:21:57
+Cautare student dupa ID in baza de date,2025-05-19 17:21:57
+Cautare student dupa ID in baza de date,2025-05-19 17:21:57
+Cautare student dupa ID in baza de date,2025-05-19 17:21:57
+Cautare student dupa ID in baza de date,2025-05-19 17:21:57
+Cautare materie dupa cod in baza de date,2025-05-19 17:21:57
+Cautare profesor dupa ID in baza de date,2025-05-19 17:21:57
+Cautare sala dupa ID in baza de date,2025-05-19 17:21:57
+Cautare student dupa ID in baza de date,2025-05-19 17:21:57
+Cautare student dupa ID in baza de date,2025-05-19 17:21:57
+Cautare student dupa ID in baza de date,2025-05-19 17:21:57
+Cautare materie dupa cod in baza de date,2025-05-19 17:21:57
+Cautare profesor dupa ID in baza de date,2025-05-19 17:21:57
+Cautare sala dupa ID in baza de date,2025-05-19 17:21:57
+Cautare student dupa ID in baza de date,2025-05-19 17:21:57
+Cautare student dupa ID in baza de date,2025-05-19 17:21:57
+Cautare student dupa ID in baza de date,2025-05-19 17:21:57
+Cautare cursuri dupa ID student in baza de date,2025-05-19 17:21:57
+Obtinere cursuri student,2025-05-19 17:21:57
+Cautare note dupa ID student in baza de date,2025-05-19 17:21:57
+Cautare student dupa ID in baza de date,2025-05-19 17:21:57
+Calcul medie student,S1,2025-05-19 17:21:57
+Cautare student dupa ID in baza de date,2025-05-19 17:22:03
+Cautare student dupa ID in baza de date,2025-05-19 17:22:03
+Cautare materie dupa cod in baza de date,2025-05-19 17:22:03
+Cautare profesor dupa ID in baza de date,2025-05-19 17:22:03
+Cautare sala dupa ID in baza de date,2025-05-19 17:22:03
+Cautare student dupa ID in baza de date,2025-05-19 17:22:03
+Cautare student dupa ID in baza de date,2025-05-19 17:22:03
+Cautare student dupa ID in baza de date,2025-05-19 17:22:03
+Cautare student dupa ID in baza de date,2025-05-19 17:22:03
+Cautare student dupa ID in baza de date,2025-05-19 17:22:03
+Cautare materie dupa cod in baza de date,2025-05-19 17:22:03
+Cautare profesor dupa ID in baza de date,2025-05-19 17:22:03
+Cautare sala dupa ID in baza de date,2025-05-19 17:22:03
+Cautare student dupa ID in baza de date,2025-05-19 17:22:03
+Cautare student dupa ID in baza de date,2025-05-19 17:22:03
+Cautare student dupa ID in baza de date,2025-05-19 17:22:03
+Cautare materie dupa cod in baza de date,2025-05-19 17:22:03
+Cautare profesor dupa ID in baza de date,2025-05-19 17:22:03
+Cautare sala dupa ID in baza de date,2025-05-19 17:22:03
+Cautare student dupa ID in baza de date,2025-05-19 17:22:03
+Cautare student dupa ID in baza de date,2025-05-19 17:22:03
+Cautare student dupa ID in baza de date,2025-05-19 17:22:03
+Cautare cursuri dupa ID student in baza de date,2025-05-19 17:22:03
+Obtinere cursuri student,2025-05-19 17:22:03
+Cautare student dupa ID in baza de date,2025-05-19 17:22:08
+Salvare nota in baza de date,S1 la CRS4 nota 10.0,2025-05-19 17:22:08
+Adaugare nota,S1 la CRS4 nota 10.0,2025-05-19 17:22:08
+Cautare student dupa ID in baza de date,2025-05-19 17:22:13
+Cautare materie dupa cod in baza de date,2025-05-19 17:22:13
+Cautare profesor dupa ID in baza de date,2025-05-19 17:22:13
+Cautare sala dupa ID in baza de date,2025-05-19 17:22:13
+Cautare student dupa ID in baza de date,2025-05-19 17:22:13
+Cautare student dupa ID in baza de date,2025-05-19 17:22:13
+Cautare student dupa ID in baza de date,2025-05-19 17:22:13
+Cautare student dupa ID in baza de date,2025-05-19 17:22:13
+Cautare student dupa ID in baza de date,2025-05-19 17:22:13
+Cautare materie dupa cod in baza de date,2025-05-19 17:22:13
+Cautare profesor dupa ID in baza de date,2025-05-19 17:22:13
+Cautare sala dupa ID in baza de date,2025-05-19 17:22:13
+Cautare student dupa ID in baza de date,2025-05-19 17:22:13
+Cautare student dupa ID in baza de date,2025-05-19 17:22:13
+Cautare student dupa ID in baza de date,2025-05-19 17:22:13
+Cautare materie dupa cod in baza de date,2025-05-19 17:22:13
+Cautare profesor dupa ID in baza de date,2025-05-19 17:22:13
+Cautare sala dupa ID in baza de date,2025-05-19 17:22:13
+Cautare student dupa ID in baza de date,2025-05-19 17:22:13
+Cautare student dupa ID in baza de date,2025-05-19 17:22:13
+Cautare student dupa ID in baza de date,2025-05-19 17:22:13
+Cautare cursuri dupa ID student in baza de date,2025-05-19 17:22:13
+Obtinere cursuri student,2025-05-19 17:22:13
+Cautare student dupa ID in baza de date,2025-05-19 17:22:29
+Cautare student dupa ID in baza de date,2025-05-19 17:22:29
+Cautare materie dupa cod in baza de date,2025-05-19 17:22:29
+Cautare profesor dupa ID in baza de date,2025-05-19 17:22:29
+Cautare sala dupa ID in baza de date,2025-05-19 17:22:29
+Cautare student dupa ID in baza de date,2025-05-19 17:22:29
+Cautare student dupa ID in baza de date,2025-05-19 17:22:29
+Cautare student dupa ID in baza de date,2025-05-19 17:22:29
+Cautare student dupa ID in baza de date,2025-05-19 17:22:29
+Cautare student dupa ID in baza de date,2025-05-19 17:22:29
+Cautare materie dupa cod in baza de date,2025-05-19 17:22:29
+Cautare profesor dupa ID in baza de date,2025-05-19 17:22:29
+Cautare sala dupa ID in baza de date,2025-05-19 17:22:29
+Cautare student dupa ID in baza de date,2025-05-19 17:22:29
+Cautare student dupa ID in baza de date,2025-05-19 17:22:29
+Cautare student dupa ID in baza de date,2025-05-19 17:22:29
+Cautare materie dupa cod in baza de date,2025-05-19 17:22:29
+Cautare profesor dupa ID in baza de date,2025-05-19 17:22:29
+Cautare sala dupa ID in baza de date,2025-05-19 17:22:29
+Cautare student dupa ID in baza de date,2025-05-19 17:22:29
+Cautare student dupa ID in baza de date,2025-05-19 17:22:29
+Cautare student dupa ID in baza de date,2025-05-19 17:22:29
+Cautare cursuri dupa ID student in baza de date,2025-05-19 17:22:29
+Obtinere cursuri student,2025-05-19 17:22:29
+Cautare student dupa ID in baza de date,2025-05-19 17:22:29
+Cautare materie dupa cod in baza de date,2025-05-19 17:22:29
+Cautare profesor dupa ID in baza de date,2025-05-19 17:22:29
+Cautare sala dupa ID in baza de date,2025-05-19 17:22:29
+Cautare student dupa ID in baza de date,2025-05-19 17:22:29
+Cautare student dupa ID in baza de date,2025-05-19 17:22:29
+Cautare curs dupa ID in baza de date,2025-05-19 17:22:29
+Cautare note dupa ID student in baza de date,2025-05-19 17:22:29
+Cautare student dupa ID in baza de date,2025-05-19 17:22:29
+Calcul medie student,S1,2025-05-19 17:22:29
