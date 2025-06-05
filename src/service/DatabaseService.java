@@ -1,12 +1,11 @@
-package Service;
+package service;
 
-import Model.*;
-import Repository.*;
+import model.*;
+import repository.*;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.sql.Connection;
 import java.sql.SQLException;
 import java.sql.Statement;
@@ -62,20 +61,13 @@ public class DatabaseService {
     
     private void initDatabase() {
         try (Connection conn = dbConnection.getConnection()) {
-            if (dbConnection.isH2Database()) {
-                // Folosim scriptul specific pentru H2
-                executeSqlScript(conn, "src/resources/init_db_h2.sql");
-            } else {
-                // Folosim scriptul pentru PostgreSQL
-                executeSqlScript(conn, "src/resources/init_db.sql");
-            }
+            // Folosim scriptul pentru PostgreSQL
+            executeSqlScript(conn, "src/resources/init_db.sql");
             
             auditService.logActiune("Initializare baza de date");
         } catch (SQLException | IOException e) {
             System.err.println("Error initializing database: " + e.getMessage());
-            
-            // Fallback pentru inițializarea bazei de date direct prin comenzi SQL
-            initDatabaseFallback();
+            throw new RuntimeException("Database initialization failed", e);
         }
     }
     
@@ -107,116 +99,6 @@ public class DatabaseService {
         }
     }
     
-    private void initDatabaseFallback() {
-        try (Connection conn = dbConnection.getConnection();
-             Statement stmt = conn.createStatement()) {
-            
-            // Tabela studenti
-            stmt.execute("CREATE TABLE IF NOT EXISTS studenti (" +
-                    "id VARCHAR(50) PRIMARY KEY, " +
-                    "nume VARCHAR(100) NOT NULL, " +
-                    "email VARCHAR(100) NOT NULL, " +
-                    "an_studiu INT NOT NULL" +
-                    ")");
-            
-            // Tabela profesori
-            stmt.execute("CREATE TABLE IF NOT EXISTS profesori (" +
-                    "id VARCHAR(50) PRIMARY KEY, " +
-                    "nume VARCHAR(100) NOT NULL, " +
-                    "titulatura VARCHAR(100) NOT NULL" +
-                    ")");
-            
-            // Tabela materii
-            stmt.execute("CREATE TABLE IF NOT EXISTS materii (" +
-                    "cod VARCHAR(50) PRIMARY KEY, " +
-                    "nume VARCHAR(100) NOT NULL, " +
-                    "credite INT NOT NULL" +
-                    ")");
-            
-            // Tabela sali
-            stmt.execute("CREATE TABLE IF NOT EXISTS sali (" +
-                    "id VARCHAR(50) PRIMARY KEY, " +
-                    "nume VARCHAR(100) NOT NULL, " +
-                    "capacitate INT NOT NULL, " +
-                    "facilitati TEXT NOT NULL" +
-                    ")");
-            
-            // Tabela cursuri
-            stmt.execute("CREATE TABLE IF NOT EXISTS cursuri (" +
-                    "id VARCHAR(50) PRIMARY KEY, " +
-                    "materie_cod VARCHAR(50) NOT NULL, " +
-                    "profesor_id VARCHAR(50) NOT NULL, " +
-                    "sala_id VARCHAR(50) NOT NULL, " +
-                    "ora_inceput TIME NOT NULL, " +
-                    "ora_sfarsit TIME NOT NULL, " +
-                    "FOREIGN KEY (materie_cod) REFERENCES materii(cod), " +
-                    "FOREIGN KEY (profesor_id) REFERENCES profesori(id), " +
-                    "FOREIGN KEY (sala_id) REFERENCES sali(id)" +
-                    ")");
-            
-            // Tabela inscrieri
-            stmt.execute("CREATE TABLE IF NOT EXISTS inscrieri (" +
-                    "student_id VARCHAR(50) NOT NULL, " +
-                    "curs_id VARCHAR(50) NOT NULL, " +
-                    "data_inscriere DATE NOT NULL, " +
-                    "PRIMARY KEY (student_id, curs_id), " +
-                    "FOREIGN KEY (student_id) REFERENCES studenti(id), " +
-                    "FOREIGN KEY (curs_id) REFERENCES cursuri(id)" +
-                    ")");
-            
-            // Tabela note - adaptare pentru H2 și PostgreSQL
-            if (dbConnection.isH2Database()) {
-                stmt.execute("CREATE TABLE IF NOT EXISTS note (" +
-                        "id INT AUTO_INCREMENT PRIMARY KEY, " +
-                        "student_id VARCHAR(50) NOT NULL, " +
-                        "curs_id VARCHAR(50) NOT NULL, " +
-                        "valoare DOUBLE NOT NULL, " +
-                        "data_atribuire DATE NOT NULL, " +
-                        "FOREIGN KEY (student_id) REFERENCES studenti(id), " +
-                        "FOREIGN KEY (curs_id) REFERENCES cursuri(id)" +
-                        ")");
-            } else {
-                stmt.execute("CREATE TABLE IF NOT EXISTS note (" +
-                        "id SERIAL PRIMARY KEY, " +
-                        "student_id VARCHAR(50) NOT NULL, " +
-                        "curs_id VARCHAR(50) NOT NULL, " +
-                        "valoare DOUBLE PRECISION NOT NULL, " +
-                        "data_atribuire DATE NOT NULL, " +
-                        "FOREIGN KEY (student_id) REFERENCES studenti(id), " +
-                        "FOREIGN KEY (curs_id) REFERENCES cursuri(id)" +
-                        ")");
-            }
-            
-            // Tabela departamente
-            stmt.execute("CREATE TABLE IF NOT EXISTS departamente (" +
-                    "cod VARCHAR(50) PRIMARY KEY, " +
-                    "nume VARCHAR(100) NOT NULL" +
-                    ")");
-            
-            // Relația departament-profesor
-            stmt.execute("CREATE TABLE IF NOT EXISTS departament_profesor (" +
-                    "departament_cod VARCHAR(50) NOT NULL, " +
-                    "profesor_id VARCHAR(50) NOT NULL, " +
-                    "PRIMARY KEY (departament_cod, profesor_id), " +
-                    "FOREIGN KEY (departament_cod) REFERENCES departamente(cod), " +
-                    "FOREIGN KEY (profesor_id) REFERENCES profesori(id)" +
-                    ")");
-            
-            // Relația departament-materie
-            stmt.execute("CREATE TABLE IF NOT EXISTS departament_materie (" +
-                    "departament_cod VARCHAR(50) NOT NULL, " +
-                    "materie_cod VARCHAR(50) NOT NULL, " +
-                    "PRIMARY KEY (departament_cod, materie_cod), " +
-                    "FOREIGN KEY (departament_cod) REFERENCES departamente(cod), " +
-                    "FOREIGN KEY (materie_cod) REFERENCES materii(cod)" +
-                    ")");
-            
-            auditService.logActiune("Initializare baza de date fallback");
-        } catch (SQLException e) {
-            System.err.println("Error initializing database with fallback: " + e.getMessage());
-            throw new RuntimeException("Error initializing database with fallback", e);
-        }
-    }
     
     // Student methods
     public Student saveStudent(Student student) {

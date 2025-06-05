@@ -17,9 +17,9 @@ Aplicația permite:
 
 ## Structura proiectului
 
-- `src/Model/` - Conține clasele de model (Student, Profesor, Materie, etc.)
-- `src/Service/` - Conține serviciile aplicației
-- `src/Repository/` - Conține clasele pentru interacțiunea cu baza de date
+- `src/model/` - Conține clasele de model (Student, Profesor, Materie, etc.)
+- `src/service/` - Conține serviciile aplicației
+- `src/repository/` - Conține clasele pentru interacțiunea cu baza de date
 - `src/resources/` - Conține fișiere de configurare și script-uri SQL
 
 ## Configurare Bază de Date
@@ -102,6 +102,6 @@ Aplicația conține următoarele clase principale:
 
 Aplicația utilizează JDBC pentru a stoca și recupera date dintr-o bază de date. Implementarea include:
 - Servicii singleton pentru gestionarea conexiunilor la baza de date
-- Repository pentru fiecare entitate din sistem
+- repository pentru fiecare entitate din sistem
 - Operații CRUD (Create, Read, Update, Delete) pentru fiecare entitate
 - Un serviciu de audit care înregistrează toate acțiunile importante efectuate în aplicație

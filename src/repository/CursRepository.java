@@ -1,13 +1,13 @@
-package Repository;
+package repository;
 
-import Model.Curs;
-import Model.Materie;
-import Model.Profesor;
-import Model.Sala;
-import Model.Student;
-import Service.AuditService;
-import Service.CrudRepository;
-import Service.DatabaseConnectionSingleton;
+import model.Curs;
+import model.Materie;
+import model.Profesor;
+import model.Sala;
+import model.Student;
+import service.AuditService;
+import service.CrudRepository;
+import service.DatabaseConnectionSingleton;
 
 import java.sql.*;
 import java.time.LocalTime;

@@ -1,5 +1,5 @@
-import Service.CatalogService;
-import Service.UIService;
+import service.CatalogService;
+import service.UIService;
 
 /**
  * Clasa principală care pornește aplicația Catalog Electronic

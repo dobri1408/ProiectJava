@@ -1,6 +1,6 @@
-package Service;
+package service;
 
-import Model.*;
+import model.*;
 
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;

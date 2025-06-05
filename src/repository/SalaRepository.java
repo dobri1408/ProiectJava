@@ -1,9 +1,9 @@
-package Repository;
+package repository;
 
-import Model.Sala;
-import Service.AuditService;
-import Service.CrudRepository;
-import Service.DatabaseConnectionSingleton;
+import model.Sala;
+import service.AuditService;
+import service.CrudRepository;
+import service.DatabaseConnectionSingleton;
 
 import java.sql.*;
 import java.util.ArrayList;

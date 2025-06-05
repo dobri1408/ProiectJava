@@ -1,27 +1,27 @@
-package Repository;
+package repository;
 
-import Model.Student;
-import Service.AuditService;
-import Service.CrudRepository;
-import Service.DatabaseConnectionSingleton;
+import model.Materie;
+import service.AuditService;
+import service.CrudRepository;
+import service.DatabaseConnectionSingleton;
 
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
-public class StudentRepository implements CrudRepository<Student, String> {
+public class MaterieRepository implements CrudRepository<Materie, String> {
     private final DatabaseConnectionSingleton dbConnection;
     private final AuditService auditService;
 
-    public StudentRepository() {
+    public MaterieRepository() {
         this.dbConnection = DatabaseConnectionSingleton.getInstance();
         this.auditService = AuditService.getInstance();
     }
 
     @Override
-    public Student save(Student student) {
-        String sql = "INSERT INTO studenti (id, nume, email, an_studiu) VALUES (?, ?, ?, ?)";
+    public Materie save(Materie materie) {
+        String sql = "INSERT INTO materii (cod, nume, credite) VALUES (?, ?, ?)";
         Connection conn = null;
         PreparedStatement stmt = null;
         
@@ -29,26 +29,25 @@ public class StudentRepository implements CrudRepository<Student, String> {
             conn = dbConnection.getConnection();
             stmt = conn.prepareStatement(sql);
             
-            stmt.setString(1, student.getId());
-            stmt.setString(2, student.getNume());
-            stmt.setString(3, student.getEmail());
-            stmt.setInt(4, student.getAnStudiu());
+            stmt.setString(1, materie.getCod());
+            stmt.setString(2, materie.getNume());
+            stmt.setInt(3, materie.getCredite());
             
             int affectedRows = stmt.executeUpdate();
             if (affectedRows == 0) {
-                throw new SQLException("Creating student failed, no rows affected.");
+                throw new SQLException("Creating materie failed, no rows affected.");
             }
             
             // Commit the transaction
             dbConnection.commitTransaction();
             
-            auditService.logActiune("Salvare student in baza de date");
-            return student;
+            auditService.logActiune("Salvare materie in baza de date");
+            return materie;
         } catch (SQLException e) {
             // Rollback in case of error
             dbConnection.rollbackTransaction();
-            System.err.println("Error saving student: " + e.getMessage());
-            throw new RuntimeException("Error saving student", e);
+            System.err.println("Error saving materie: " + e.getMessage());
+            throw new RuntimeException("Error saving materie", e);
         } finally {
             // Don't close the connection, just the statement
             if (stmt != null) {
@@ -62,8 +61,8 @@ public class StudentRepository implements CrudRepository<Student, String> {
     }
 
     @Override
-    public Optional<Student> findById(String id) {
-        String sql = "SELECT * FROM studenti WHERE id = ?";
+    public Optional<Materie> findById(String cod) {
+        String sql = "SELECT * FROM materii WHERE cod = ?";
         Connection conn = null;
         PreparedStatement stmt = null;
         ResultSet rs = null;
@@ -72,24 +71,23 @@ public class StudentRepository implements CrudRepository<Student, String> {
             conn = dbConnection.getConnection();
             stmt = conn.prepareStatement(sql);
             
-            stmt.setString(1, id);
+            stmt.setString(1, cod);
             
             rs = stmt.executeQuery();
             if (rs.next()) {
-                Student student = new Student(
+                Materie materie = new Materie(
                         rs.getString("nume"),
-                        rs.getString("id"),
-                        rs.getString("email"),
-                        rs.getInt("an_studiu")
+                        rs.getString("cod"),
+                        rs.getInt("credite")
                 );
                 
-                auditService.logActiune("Cautare student dupa ID in baza de date");
-                return Optional.of(student);
+                auditService.logActiune("Cautare materie dupa cod in baza de date");
+                return Optional.of(materie);
             }
             return Optional.empty();
         } catch (SQLException e) {
-            System.err.println("Error finding student by ID: " + e.getMessage());
-            throw new RuntimeException("Error finding student by ID", e);
+            System.err.println("Error finding materie by cod: " + e.getMessage());
+            throw new RuntimeException("Error finding materie by cod", e);
         } finally {
             // Close resources but not the connection
             if (rs != null) {
@@ -110,9 +108,9 @@ public class StudentRepository implements CrudRepository<Student, String> {
     }
 
     @Override
-    public List<Student> findAll() {
-        String sql = "SELECT * FROM studenti";
-        List<Student> students = new ArrayList<>();
+    public List<Materie> findAll() {
+        String sql = "SELECT * FROM materii";
+        List<Materie> materii = new ArrayList<>();
         Connection conn = null;
         Statement stmt = null;
         ResultSet rs = null;
@@ -123,20 +121,19 @@ public class StudentRepository implements CrudRepository<Student, String> {
             rs = stmt.executeQuery(sql);
             
             while (rs.next()) {
-                Student student = new Student(
+                Materie materie = new Materie(
                         rs.getString("nume"),
-                        rs.getString("id"),
-                        rs.getString("email"),
-                        rs.getInt("an_studiu")
+                        rs.getString("cod"),
+                        rs.getInt("credite")
                 );
-                students.add(student);
+                materii.add(materie);
             }
             
-            auditService.logActiune("Listare toti studentii din baza de date");
-            return students;
+            auditService.logActiune("Listare toate materiile din baza de date");
+            return materii;
         } catch (SQLException e) {
-            System.err.println("Error finding all students: " + e.getMessage());
-            throw new RuntimeException("Error finding all students", e);
+            System.err.println("Error finding all materii: " + e.getMessage());
+            throw new RuntimeException("Error finding all materii", e);
         } finally {
             // Close resources but not the connection
             if (rs != null) {
@@ -157,8 +154,8 @@ public class StudentRepository implements CrudRepository<Student, String> {
     }
 
     @Override
-    public Student update(String id, Student student) {
-        String sql = "UPDATE studenti SET nume = ?, email = ?, an_studiu = ? WHERE id = ?";
+    public Materie update(String cod, Materie materie) {
+        String sql = "UPDATE materii SET nume = ?, credite = ? WHERE cod = ?";
         Connection conn = null;
         PreparedStatement stmt = null;
         
@@ -166,26 +163,25 @@ public class StudentRepository implements CrudRepository<Student, String> {
             conn = dbConnection.getConnection();
             stmt = conn.prepareStatement(sql);
             
-            stmt.setString(1, student.getNume());
-            stmt.setString(2, student.getEmail());
-            stmt.setInt(3, student.getAnStudiu());
-            stmt.setString(4, id);
+            stmt.setString(1, materie.getNume());
+            stmt.setInt(2, materie.getCredite());
+            stmt.setString(3, cod);
             
             int affectedRows = stmt.executeUpdate();
             if (affectedRows == 0) {
-                throw new SQLException("Updating student failed, no rows affected.");
+                throw new SQLException("Updating materie failed, no rows affected.");
             }
             
             // Commit the transaction
             dbConnection.commitTransaction();
             
-            auditService.logActiune("Actualizare student in baza de date");
-            return student;
+            auditService.logActiune("Actualizare materie in baza de date");
+            return materie;
         } catch (SQLException e) {
             // Rollback in case of error
             dbConnection.rollbackTransaction();
-            System.err.println("Error updating student: " + e.getMessage());
-            throw new RuntimeException("Error updating student", e);
+            System.err.println("Error updating materie: " + e.getMessage());
+            throw new RuntimeException("Error updating materie", e);
         } finally {
             // Don't close the connection, just the statement
             if (stmt != null) {
@@ -199,8 +195,8 @@ public class StudentRepository implements CrudRepository<Student, String> {
     }
 
     @Override
-    public boolean deleteById(String id) {
-        String sql = "DELETE FROM studenti WHERE id = ?";
+    public boolean deleteById(String cod) {
+        String sql = "DELETE FROM materii WHERE cod = ?";
         Connection conn = null;
         PreparedStatement stmt = null;
         
@@ -208,20 +204,20 @@ public class StudentRepository implements CrudRepository<Student, String> {
             conn = dbConnection.getConnection();
             stmt = conn.prepareStatement(sql);
             
-            stmt.setString(1, id);
+            stmt.setString(1, cod);
             
             int affectedRows = stmt.executeUpdate();
             
             // Commit the transaction
             dbConnection.commitTransaction();
             
-            auditService.logActiune("Stergere student din baza de date");
+            auditService.logActiune("Stergere materie din baza de date");
             return affectedRows > 0;
         } catch (SQLException e) {
             // Rollback in case of error
             dbConnection.rollbackTransaction();
-            System.err.println("Error deleting student: " + e.getMessage());
-            throw new RuntimeException("Error deleting student", e);
+            System.err.println("Error deleting materie: " + e.getMessage());
+            throw new RuntimeException("Error deleting materie", e);
         } finally {
             // Don't close the connection, just the statement
             if (stmt != null) {

@@ -1,4 +1,4 @@
-package Model;
+package model;
 
 /**
  * Clasa abstractă care reprezintă un utilizator în sistemul de catalog electronic.
@@ -42,9 +42,6 @@ public abstract class Utilizator {
         this.id = id;
     }
 
-    /**
-     * Metodă abstractă care returnează rolul utilizatorului în sistem.
-     * @return Rolul utilizatorului (ex: "Student", "Profesor").
-     */
     public abstract String getRol();
+
 }

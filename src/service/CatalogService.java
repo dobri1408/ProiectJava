@@ -1,6 +1,6 @@
-package Service;
+package service;
 
-import Model.*;
+import model.*;
 import java.util.*;
 import java.util.stream.Collectors;
 import java.time.LocalTime;

@@ -1,10 +1,10 @@
-package Repository;
+package repository;
 
-import Model.Curs;
-import Model.Inscriere;
-import Model.Student;
-import Service.AuditService;
-import Service.DatabaseConnectionSingleton;
+import model.Curs;
+import model.Inscriere;
+import model.Student;
+import service.AuditService;
+import service.DatabaseConnectionSingleton;
 
 import java.sql.*;
 import java.time.LocalDate;

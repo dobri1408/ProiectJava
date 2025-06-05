@@ -1,4 +1,4 @@
-package Service;
+package service;
 
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -15,7 +15,6 @@ public class DatabaseConnectionSingleton {
     private final String user;
     private final String password;
     private final String driver;
-    private final boolean isH2;
     
     // Register a shutdown hook to ensure the connection is closed when the JVM exits
     static {
@@ -30,23 +29,7 @@ public class DatabaseConnectionSingleton {
     private DatabaseConnectionSingleton() {
         Properties props = new Properties();
         try {
-            // Încercăm să încărcăm din calea directă
-            InputStream input = getClass().getResourceAsStream("/resources/db.properties");
-            
-            // Dacă nu găsim, încercăm cu calea completă
-            if (input == null) {
-                input = getClass().getClassLoader().getResourceAsStream("resources/db.properties");
-            }
-            
-            // Dacă tot nu găsim, încercăm cu calea relativă
-            if (input == null) {
-                input = new FileInputStream("src/resources/db.properties");
-            }
-            
-            if (input == null) {
-                System.out.println("Sorry, unable to find db.properties");
-                throw new IOException("Cannot find db.properties");
-            }
+            InputStream input = new FileInputStream("src/resources/db.properties");
             
             props.load(input);
             input.close();
@@ -59,7 +42,6 @@ public class DatabaseConnectionSingleton {
         this.user = props.getProperty("db.user");
         this.password = props.getProperty("db.password");
         this.driver = props.getProperty("db.driver");
-        this.isH2 = this.driver.contains("h2");
 
         try {
             Class.forName(driver);
@@ -147,7 +129,4 @@ public class DatabaseConnectionSingleton {
         }
     }
     
-    public boolean isH2Database() {
-        return isH2;
-    }
 }
